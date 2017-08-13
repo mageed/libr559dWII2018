@@ -6,9 +6,9 @@ The University of British Columbia
 
 **Program:** MLIS, Dual
 
-**Year:** Winter Session II 2017
+**Year:** Winter Session I 2017
 
-**Time:** Thurs. 2:00–4:50 p.m.
+**Time:** Wed. 9:00–11:50 p.m.
 
 **Location:** SLAIS Terrace Lab 
 
@@ -18,23 +18,24 @@ The University of British Columbia
 
 **Office phone:** 6048-274-530
 
-**Office hours:** Mon. 1:00pm-3:00pm
+**Office hours:** Mon. 10:00pm-12:00pm or by appointment. I can also handle inquiries via email or Skype 
+if Mondays are not possible for you.
 
 **E-mail address:** muhammad.mageed@ubc.ca
 
-**iSchool@UBC Student Portal:** http://connect.ubc.ca
+**iSchool@UBC Student Portal:** http://canvas.ubc.ca
 
 
 ## 1.	Course Rationale & Goal: 
 
 **Rationale/Background:** Python is a remarkably powerful dynamic programming language that is used for a very wide variety of application domains, including text processing, data mining and analytics, and web development. Python’s very clear, readable syntax (e.g., use of English keywords where other languages use punctuation) and strong introspection capabilities make it an ideal choice for novice programmers. Indeed, more and more instructors are adopting the language for introductory programming courses. 
 
-**Goal:** The goal of this course is to teach programming concepts using the Python programming language. The course is designed to be self-standing and proceeds from basic- to medium- and advanced concepts and assumes no prior programming experience. For an IT professional, programming skills are almost indispensable: General understanding of programming and programming experience both improve students’ overall understanding of information systems and help develop their general problem solving skills. Programming skills are also essential for analysis and mining of information users’ behaviors and communities. Good programming skills significantly boost work productivity and students usually utilize them during their program of study and throughout their professional lives. 
+**Goal:** The goal of this course is to introduce programming concepts using the Python programming language. The course is designed to be self-standing and focuses on basic concepts, assuming no prior programming experience. For an IT professional, programming skills are almost indispensable: General understanding of programming and programming experience both improve students’ overall understanding of information systems and help develop their general problem solving skills. Programming skills are also essential for analysis and mining of information users’ behaviors and communities. Good programming skills significantly boost work productivity and students usually utilize them during their program of study and throughout their professional lives. 
 
 **Potential audiences for this course are:**
 
-* People with little or no programming and IT experience who want to acquire a medium-to-advanced level understanding of programming generally and Python specifically. 
-* People planning to take (or have taken) courses on text analytics, social media mining, information retrieval, information visualization, human-information interaction, natural language processing, machine learning, web and database design, or similar courses, who want to prepare for, or significantly advance, carrying out work and research in these areas.
+* People with no programming/IT experience who want to acquire an introductory level understanding of programming generally and Python specifically. 
+* People planning to take courses on text analytics, social media mining, information retrieval, information visualization, human-information interaction, natural language processing, machine learning, web and database design, or similar courses, who want to prepare for, or significantly advance, carrying out work and research in these areas.
 
 ## 2.	Course Objectives: 
 Upon completion of this course students will be able to:
@@ -42,7 +43,7 @@ Upon completion of this course students will be able to:
 * Identify, analyze, assess, and solve a problem or need using Python programming. [1.1]
 * Apply Python programing knowledge to practical information access, extraction, retrieval, and data (e.g., text) mining tasks. [1.2]
 * Enhance interpersonal and written communication skills through assignments and discussions with classmates and instructor. [2.1]
-* Collaborate effectively with peers through course assignments, including demonstrating the ability to work as part of a team, including initiative taking, integrity, dependability and co-operation. [3.1]
+* Collaborate effectively with peers through course assignments, demonstrating the ability to work as part of a team, including initiative taking, integrity, dependability and co-operation. [3.1]
 * Understand, develop, and apply relevant library and information science tools to address information needs, questions and issues. [4.1]
 
 ## 3.	Course Topics:
@@ -57,14 +58,8 @@ Upon completion of this course students will be able to:
 * Control flow & functions;
 * File input and output;
 * Exception handling;
-* Iterators and generators;
-* Object-oriented programming;
-* Regular expressions
-* Applications:
-
-*Web crawling and parsing*,
-*Text processing*,
-*Statistics & data visualization*
+* Iterators;
+* Applications: Simple text processing
 
 ## 4.	Prerequisites:  
 * MLIS and Dual MAS/MLIS: Completion of MLIS Core or permission of SLAIS Graduate Advisor
@@ -76,57 +71,52 @@ Upon completion of this course students will be able to:
 ## 6. Course syllabus:
 **Required book:**
 
-* Chun, W. (2012). Core python programming (2nd ed.). Prentice Hall. (ISBN-13: 978-0132269933; ISBN-10: 0132269937) https://www.amazon.ca/Core-Python-Programming-Wesley-Chun/dp/0132269937/ref=sr_1_1?ie=UTF8&qid=1483991570&sr=8-1&keywords=Core+Python+Programming)
+* Hetland, M. L. (2006). Beginning Python: from novice to professional (3rd ed.). Apress. https://www.amazon.ca/Beginning-Python-Professional-Magnus-Hetland/dp/1484200292/ref=sr_1_1?ie=UTF8&qid=1502643391&sr=8-1&keywords=Beginning+Python%3A+from+novice+to+professional). ISBN-10: 1484200292. ISBN-13: 978-1484200292. 
+
+--> Note we will use the *third edition (March 10 2017)* of the following book
 
 **Suggested supplemental books:**
 
-* Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (2013). Data structures and algorithms in Python. Wiley Publishing. (ISBN-13: 978-1118290279; ISBN-10: 1118290275)
 * Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. " O'Reilly Media, Inc.". (ISBN-13: 063-6920516491; ISBN-10: 0596516495) [[link] (http://www.nltk.org/book/)]
-* Gawron, J. Mark. (2015). Python for social science. Available at: http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/index.html. Accessed May 29th, 2016. 
+
 
 **Online Tutorials:**
-
-- Pyplot:
-•	http://matplotlib.org/api/pyplot_api.html
-•	http://matplotlib.org/users/pyplot_tutorial.html
-•	http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html#beyond-this-tutorial
 
 - Pandas:
 •	http://www.scipy-lectures.org/packages/statistics/index.html
 
 ## 7. Calendar / Weekly schedule and readings (tentative)
 
-- C = Chun, W. Book 
-- G= Gawron, M. Book
+- H= Hetland, M. L. Book
+- BKL= Bird, S., Klein, E., & Loper, E. Book
 
 | Week | Date | Topic | Readings | Other |
 |-------|-------|-------|-------| -------|
-| 1 | Jan 5 | Course overview, Intro. to Unix. See Notebook: https://github.com/mageed/libr559c/blob/master/python_1.ipynb. See online tutorials, e.g. - https://files.fosswire.com/2007/08/fwunixref.pdf, - http://www.ee.surrey.ac.uk/Teaching/Unix/, - http://www.tutorialspoint.com/unix/unix-file-management.htm |  | 
-| 2 | Jan 12 | Intro. to Python; Numbers C-Ch. 1-5 |  |
-|3 |  Jan 19 | Sequences (Strings, Lists and Tuples) C-Ch. 6 | Assignment 2 out |
-|4 | Jan 26 |  Dictionaries; Conditionals & Loops C-Ch. 7, 8 |  |
-| 5 | Feb 2 | Files and Input/Output C-Ch. 9 | Assignment 2 due; Assignment 3 out|
-|6 | Feb 9 | Functions C-Ch. 11 |
-| | Feb 16 | Errors and Exceptions; Modules C-Ch. 9, 12 |  |
-| 7 | Feb 23 | Winter Break |  |
-| 8 | Mar 2 |  Text processing NLTK Ch. 3 [[link] (http://www.nltk.org/book/)]; [*Watch Video Tutorials!*] | Assignment 3 due | 
-| 9 | Mar 8 | Regular expressions C-Ch. 15 | Project outline due| 
-| 10 | Mar 15 | Web crawling G-Ch. 11 & Revision |
-| 11 | Mar 22 |  Classes C-Ch. 13  |  |
-| 12 | Mar 29 | Statistics & data visualization  & Revision |  |
-| 13 | Apr 5 | Revision & Group Project In-Class Work |  Note: ASSIGNMENT 1: In-class code due April 6 |
-| | Apr 8 | | | Final paper due |
+| 1 | Sept 6 | Course overview, Intro. to Unix. See Notebook: https://github.com/mageed/libr559c/blob/master/python_1.ipynb. See online tutorials, e.g. - https://files.fosswire.com/2007/08/fwunixref.pdf, - http://www.ee.surrey.ac.uk/Teaching/Unix/, - http://www.tutorialspoint.com/unix/unix-file-management.htm |  | 
+| 2 | Sept 13 | Intro. to Python; Numbers C-Ch. 1-5 |  |
+| 3 |  Sept 20 | Sequences (Strings, Lists and Tuples) C-Ch. 6 | Assignment 2 out |
+| 4 | Sept 27 |  Dictionaries; Conditionals & Loops C-Ch. 7, 8 |  |
+| 5 | Oct 4 | Files and Input/Output C-Ch. 9 | Assignment 2 due; Assignment 3 out|
+| 6 | Oct 11 | Functions C-Ch. 11 |
+| 7 | Oct 13 | Errors and Exceptions; Modules C-Ch. 9, 12 |  |
+| 8 | Oct 18 |  Text processing NLTK Ch. 3 [[link] (http://www.nltk.org/book/)]; [*Watch Video Tutorials!*] | Assignment 3 due | 
+| 9 | Oct 25 | Regular expressions C-Ch. 15 | Project outline due| 
+| 10 | Nov 1 | Web crawling G-Ch. 11 & Revision |
+| 11 | Nov 8 |  Classes C-Ch. 13  |  |
+| 12 | Nov 15 | Statistics & data visualization  & Revision |  |
+| 13 | Nov 22 | Revision & Group Project In-Class Work |  Note: ASSIGNMENT 1: In-class code due Nov 22 |
+| 14 | Nov 29 | | | Final paper due |
 
 
 ## 8. Course Assignments:
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
 | ASSIGNMENT 1: In-class code | Throughout first 12 weeks | 30% |
-| ASSIGNMENT 2: | Feb. 2 | 10% |
-| ASSIGNMENT 3: | March 2 | 15% |
+| ASSIGNMENT 2: | Oct. 4 | 10% |
+| ASSIGNMENT 3: | Oct 18 | 15% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
-| Proposal | March 8 | 5% |
-| Report/Product | April 15 |40% |
+| Proposal | Oct 25 | 5% |
+| Report/Product | Nov 29 |40% |
 
 
 **Notes about assignments:**

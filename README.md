@@ -92,7 +92,7 @@ Upon completion of this course students will be able to:
 
 | Week | Date | Topic | Readings | Other |
 |-------|-------|-------|-------| -------|
-| 1 | Sept 6 | Course overview, Intro. to Unix. See Notebook: https://github.com/mageed/libr559c/blob/master/python_1.ipynb. See online tutorials, e.g. - https://files.fosswire.com/2007/08/fwunixref.pdf, - http://www.ee.surrey.ac.uk/Teaching/Unix/, - http://www.tutorialspoint.com/unix/unix-file-management.htm |  | 
+| 1 | Sept 6 | Course overview, Intro. to Unix. See slides: https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLUpmYUlJWnB5Nlk |  | 
 | 2 | Sept 13 | Intro. to Python; Numbers C-Ch. 1-5 |  |
 | 3 |  Sept 20 | Sequences (Strings, Lists and Tuples) C-Ch. 6 | Assignment 2 out |
 | 4 | Sept 27 |  Dictionaries; Conditionals & Loops C-Ch. 7, 8 |  |

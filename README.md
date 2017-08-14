@@ -92,7 +92,7 @@ Upon completion of this course students will be able to:
 
 | Week | Date | Topic | Readings | Other |
 |-------|-------|-------|-------| -------|
-| 1 | Sept 6 | Course overview, Intro. to Unix. See slides: https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLUpmYUlJWnB5Nlk |  | 
+| 1 | Sept 6 | Course overview, Intro. to Unix. See slides: https://drive.google.com/file/d/0Bx7LW_LCYVXxUUpsZlgxdkt5Mm8/view?usp=sharing |  | 
 | 2 | Sept 13 | Intro. to Python; Numbers C-Ch. 1-5 |  |
 | 3 |  Sept 20 | Sequences (Strings, Lists and Tuples) C-Ch. 6 | Assignment 2 out |
 | 4 | Sept 27 |  Dictionaries; Conditionals & Loops C-Ch. 7, 8 |  |

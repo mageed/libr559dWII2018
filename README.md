@@ -111,12 +111,12 @@ Upon completion of this course students will be able to:
 ## 8. Course Assignments:
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
-| ASSIGNMENT 0A: In-Class code | Throughout first 10 weeks | 20% |
-| ASSIGNMENT 0B: Video Tutorial code | Throughout first 10 weeks | 10% |
+| ASSIGNMENT 0A: In-Class code | Throughout weeks 2-11 | 20% |
+| ASSIGNMENT 0B: Video Tutorial code | Throughout semester | 10% |
 | ASSIGNMENT 01: | Oct. 4 | 10% |
 | ASSIGNMENT 02: | Oct 18 | 10% |
 | ASSIGNMENT 03: | Oct 18 | 10% |
-| ASSIGNMENT 03: Term Project (GROUP)| | |
+| ASSIGNMENT 04: Term Project (GROUP)| | |
 | Proposal | Oct 25 | 5% |
 | Report/Product | Nov 29 |35% |
 
@@ -139,21 +139,21 @@ A total of 10 code snippets in the form of ".py" or ".ipynb" files for the code 
 
 
 **Assignment 0B: Video Tutorial code**
-Throughout weeks 2-11, you are required to submit the code you write during the class session. This is meant to engage you during the class time and also ensure you are able to run code shared with you during a given session. This assignment will also involve simple extensions of code shared by the instructor. Whenever applicable, you will be pointed to the respective excercises during each session. In-class code will be in the form of short code snippets and you will not be penalized for mistakes you make in the code so long as your code runs for 70% of the respective tasks. In-class assignments are only accepted if you attend class. If you miss a class, this automatically means you are not allowed to submit in-class code for the session/sessions you missed. As such, failure to attend class without excuse (e.g., a sickness or another emergency which you must explain to the instructor over email prior to a class whenever possible) will result in a lower class grade. 
+Throughout the semester, you are required to watch a total of 10 video tutorials prepared by the instructor and implement/write the code covered in these tutorials on your own. You are then required to submit the code you wrote as part of the assignment. The purpose of this assignment is to involve you in content explained in a differnt mode that you can engage with at your chosen time and place. This not only maximizes benefit from class time, but should also enhance your understanding of the material and get you practise writing code beyond the class context. These tutorials are usually short (typically between 15-30 minutes long each).  
 
 **Deliverables: Video Tutorial code snippets**
-A total of 10 code snippets in the form of ".py" or ".ipynb" files for the code you write for weeks 2-11 of class.
+A total of 10 code snippets based on the 10 video tutorials you will be assigned in the form of ".py" or ".ipynb" files for the code you write through out the semester.
 
 
-**Assignment 2 & assignment 3: Coding assignments**
-These two assignments are coding exercises meant to support learning of the covered content. Each of these will be extensions of problems covered in class. The following criteria are required for each of them:
+**Assignment 1-3: Coding assignments**
+These three assignments are coding exercises meant to support learning of the covered content. Each of these will be extensions of problems covered in class. The following criteria are required for each of them:
 
-* You must run your code before submitting, and ensure it is working code. Also, you should provide the output of the code in the iPython notebook itself. For code that writes to a file, you are required to deliver the output files as well.
+* You must run your code before submitting, and ensure it is working code. Also, you should provide evidence that your code runs well (e.g., the result of each snippet when run or first 5/few lines of output in the case of large amounts of output). The code should be submitted in the form of ".py" or ".ipynb" files.
 * For each problem, in addition to your code, you should provide explanatory Python comments as appropriate. Your comments should be short and to-the-point. As a programmer, you should develop a sense as to when to use comments and when not. This requirement is meant to teach you about using comments. Using comments will be discussed in class and feedback on your deliverables will be provided. 
 * In addition to the functionality of your code, you should care for algorithms and style. This means, over time, you are expected to develop a sense of what the best ways to solve a problem in a computationally efficient way and using the capabilities of the Python programming language. These are aspects that will be discussed in class over the course of the semester.
 
-**Deliverables: iPython notebooks with code**
-* For each of assignments 2 and 3, you are required to submit an iPython notebook including your code and relevant narratives/comments, etc.
+**Deliverables: ".py" or "iPython notebooks" with code**
+* For each of assignments the 1-3 assignments, you are required to submit your code an in the form of ".py" or ".ipynb" files, including your code and relevant narratives/comments, etc.
 
 **Assignment 4: Term Project**
 The purposes of this assignment include:
@@ -163,10 +163,10 @@ The purposes of this assignment include:
 * Developing oral and written communication skills through discussions with classmates and instructor;
 * Demonstrating ability to work as part of a team, including initiative taking, integrity, dependability and co-operation, and effective collaboration.
 
-For this assignment, each student is required to work as part of a group of of 3/4 on a project involving a significant amount of coding. Example projects include designing a system that generates language (e.g., the language of William Shakespeare), analyzes emotions in a dataset of literary work, visualizes concepts from a data source, summarizes texts, builds a website that delivers some service, builds a web interface or an app for a service (e.g., a library service), builds an interactive database with use case scenarios in meaningful contexts. 
+For this assignment, each student is required to work as part of a group of of **3 students** on a project involving a significant amount of coding (e.g., coding at least equal to or more than the amount you wrote for assignments 1-3). Example projects include designing a system that generates language (e.g., the language of William Shakespeare), analyzes emotions in a dataset of literary work, visualizes concepts from a data source, summarizes texts, builds a simple website that delivers some service, builds a web interface or an app for a service (e.g., a library service), builds an interactive database with use case scenarios in meaningful contexts, analyzes a publicly available (e.g., governmental) dataset. You will have the chance to discuss your project with the instructor upon your request, and example projects will be discussed with class as well. 
 
 **Deliverables**
-Proposal (500-700 words)
+Proposal (500 words)
 
 * Who are the the group members?
 * What are you designing or coding for?
@@ -178,14 +178,14 @@ Proposal (500-700 words)
 * Timeline for completing the project, including goals for each segment.
 
 
-**Final Report/Paper (4000-5000 words)**
+**Final Report/Paper (3000-4000 words maximum)**
 The final deliverable should include:
 
 * A detailed and clear description of your project, including the necessary sections, as appropriate. For system-oriented projects (e.g., building a website or an app), you will need to provide motivations, describe the audience, details of your implementation, and system functionality. For projects more focused on data analysis, you will need to include research questions, a brief literature review, a description of datasets, implementation details and methods employed, results, and a conclusion involving limitations and future directions;
 * All relevant code;
 * Pointers to live versions of your system, if any;
 * Some of these components will be more relevant to some projects but not others. For example, if your project involves a system for analysis of a dataset, you will need to include standard sections as you would find in an academic journal;
-* As appropriate, you should situate your work within the wider context of previous works and approaches, with supporting arguments (~ 10 sources);
+* As appropriate, you should situate your work within the wider context of previous works and approaches, with supporting arguments (~ 5 sources);
 * Use case scenarios and screenshots from your system interface, if any;
 * Employment of figures, tables, and visualizations as appropriate to enhance argument and facilitate communicating your findings/results;
 

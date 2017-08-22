@@ -93,18 +93,18 @@ Upon completion of this course students will be able to:
 | Week | Date | Topic | Readings | Other |
 |-------|-------|-------|-------| -------|
 | 1 | Sept 6 | Course overview, Intro. to Unix. See slides: https://drive.google.com/file/d/0Bx7LW_LCYVXxUUpsZlgxdkt5Mm8/view?usp=sharing |  | 
-| 2 | Sept 13 | Intro. to Python; Numbers C-Ch. 1-5 |  |
-| 3 |  Sept 20 | Sequences (Strings, Lists and Tuples) C-Ch. 6 | Assignment 2 out |
-| 4 | Sept 27 |  Dictionaries; Conditionals & Loops C-Ch. 7, 8 |  |
-| 5 | Oct 4 | Files and Input/Output C-Ch. 9 | Assignment 2 due; Assignment 3 out|
-| 6 | Oct 11 | Functions C-Ch. 11 |
-| 7 | Oct 13 | Errors and Exceptions; Modules C-Ch. 9, 12 |  |
-| 8 | Oct 18 |  Text processing NLTK Ch. 3 [[link] (http://www.nltk.org/book/)]; [*Watch Video Tutorials!*] | Assignment 3 due | 
-| 9 | Oct 25 | Regular expressions C-Ch. 15 | Project outline due| 
-| 10 | Nov 1 | Web crawling G-Ch. 11 & Revision |
-| 11 | Nov 8 |  Classes C-Ch. 13  |  |
-| 12 | Nov 15 | Statistics & data visualization  & Revision |  |
-| 13 | Nov 22 | Revision & Group Project In-Class Work |  Note: ASSIGNMENT 1: In-class code due Nov 22 |
+| 2 | Sept 13 | Intro. to Python: Python Enviornment & Editors; Literals |  Assignment 1 out |
+| 3 |  Sept 20 | Sequences (Strings) |  |
+| 4 | Sept 27 |  Sequences (Lists & Tuples) | Assignment 1 due; Assignment 1 out |
+| 5 | Oct 4 | Dictionaries | |
+| 6 | Oct 11 | Conditionals & Loops | Assignment 2 due; Assignment 3 out |
+| 7 | Oct 13 | Files and Input/Output  |  |
+| 8 | Oct 18 |  Revision & Project Discussion | Assignment 3 due | 
+| 9 | Oct 25 |  Functions  | Project outline due| 
+| 10 | Nov 1 | Errors and Exceptions |
+| 11 | Nov 8 |  Modules & Text processing NLTK Ch. 3 [[link] (http://www.nltk.org/book/)]  |  |
+| 12 | Nov 15 |  Revision & Group Project In-Class Work |  |
+| 13 | Nov 22 | Revision & Group Project In-Class Work | |
 | 14 | Nov 29 | | | Final paper due |
 
 

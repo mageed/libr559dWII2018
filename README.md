@@ -111,29 +111,39 @@ Upon completion of this course students will be able to:
 ## 8. Course Assignments:
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
-| ASSIGNMENT 1: In-class code | Throughout first 12 weeks | 30% |
-| ASSIGNMENT 2: | Oct. 4 | 10% |
-| ASSIGNMENT 3: | Oct 18 | 15% |
-| ASSIGNMENT 4: Term Project (GROUP)| | |
+| ASSIGNMENT 0A: In-Class code | Throughout first 10 weeks | 20% |
+| ASSIGNMENT 0B: Video Tutorial code | Throughout first 10 weeks | 10% |
+| ASSIGNMENT 01: | Oct. 4 | 10% |
+| ASSIGNMENT 02: | Oct 18 | 10% |
+| ASSIGNMENT 03: | Oct 18 | 10% |
+| ASSIGNMENT 03: Term Project (GROUP)| | |
 | Proposal | Oct 25 | 5% |
-| Report/Product | Nov 29 |40% |
+| Report/Product | Nov 29 |35% |
 
 
 **Notes about assignments:**
 
-* All written assignments must be submitted before 11:55 pm of a respective assignment date;
-* All coding assignments must be submitted in the form of an iPython notebook. Support will be provided on how to create notebooks;
+* All written assignments must be submitted before 9:00 am of a respective assignment date;
+* All coding assignments must be submitted in print form as well as the form of a Python script (either .py file or an "iPython/Jupyter notebook"). Support will be provided on how to create ".py" scripts and iPython notebooks;
 * Project proposal/outline must be in a pdf format;
-* All submitted files should be labeled with your last name(s) followed by an underscore and an assignment code. Assignment codes are two digit numbers, e.g., “assignment01,” “asignment02,” etc.  
-*For example: “abdul-mageed_assignment01.ipynb”*
+* All submitted files should be labeled with your last name(s) followed by an underscore and an assignment code. Assignment codes are two digit numbers, e.g., “assignment01,” “asignment02,” or "0A" for In-Class code and "0B" for Video Tutorial code.  
+*For example, "ASSIGNMENT 01" would be submitted as “abdul-mageed_assignment01.ipynb”*
 
 **Assignments in Detail**
 
-**Assignment 1: In-class code**
-Throughout the first 12 weeks, you are required to submit the code you write during the class session. This is meant to engage you during the class time and also ensure you are able to run code shared with you during a given session. This assignment will also involve simple extensions of code shared by the instructor. In-class code will be in the form of short code snippets and you will not be penalized for mistakes you make in the code so long as your code runs for 70% of the respective tasks. In-class assignments are only accepted if you attend class. If you miss a class, this automatically means you are not allowed to submit in-class code for the session/sessions you missed. As such, failure to attend class without a necessary excuse (e.g., a sickness or another emergency) will result in a lower class grade. 
+**Assignment 0A: In-class code**
+Throughout weeks 2-11, you are required to submit the code you write during the class session. This is meant to engage you during the class time and also ensure you are able to run code shared with you during a given session. This assignment will also involve simple extensions of code shared by the instructor. Whenever applicable, you will be pointed to the respective excercises during each session. In-class code will be in the form of short code snippets and you will not be penalized for mistakes you make in the code so long as your code runs for 70% of the respective tasks. In-class assignments are only accepted if you attend class. If you miss a class, this automatically means you are not allowed to submit in-class code for the session/sessions you missed. As such, failure to attend class without excuse (e.g., a sickness or another emergency which you must explain to the instructor over email prior to a class whenever possible) will result in a lower class grade. 
 
 **Deliverables: In-class code snippets**
-A total of 12 code snippets for the code you write for each of the first 12 weeks of class.
+A total of 10 code snippets in the form of ".py" or ".ipynb" files for the code you write for weeks 2-11 of class.
+
+
+**Assignment 0B: Video Tutorial code**
+Throughout weeks 2-11, you are required to submit the code you write during the class session. This is meant to engage you during the class time and also ensure you are able to run code shared with you during a given session. This assignment will also involve simple extensions of code shared by the instructor. Whenever applicable, you will be pointed to the respective excercises during each session. In-class code will be in the form of short code snippets and you will not be penalized for mistakes you make in the code so long as your code runs for 70% of the respective tasks. In-class assignments are only accepted if you attend class. If you miss a class, this automatically means you are not allowed to submit in-class code for the session/sessions you missed. As such, failure to attend class without excuse (e.g., a sickness or another emergency which you must explain to the instructor over email prior to a class whenever possible) will result in a lower class grade. 
+
+**Deliverables: Video Tutorial code snippets**
+A total of 10 code snippets in the form of ".py" or ".ipynb" files for the code you write for weeks 2-11 of class.
+
 
 **Assignment 2 & assignment 3: Coding assignments**
 These two assignments are coding exercises meant to support learning of the covered content. Each of these will be extensions of problems covered in class. The following criteria are required for each of them:

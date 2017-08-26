@@ -77,13 +77,11 @@ Upon completion of this course students will be able to:
 
 **Suggested supplemental books:**
 
-* Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. " O'Reilly Media, Inc.". (ISBN-13: 063-6920516491; ISBN-10: 0596516495) [[link] (http://www.nltk.org/book/)]
-
+* Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. " O'Reilly Media, Inc.". (ISBN-13: 063-6920516491; ISBN-10: 0596516495) [NLTK-BOOK][2]
 
 **Online Tutorials:**
 
-- Pandas:
-•	http://www.scipy-lectures.org/packages/statistics/index.html
+- [Pandas][3]
 
 ## 7. Calendar / Weekly schedule and readings (tentative)
 
@@ -92,7 +90,7 @@ Upon completion of this course students will be able to:
 
 | Week | Date | Topic | Readings | Other |
 |-------|-------|-------|-------| -------|
-| 1 | Sept 6 | Course overview, Intro. to Unix. See slides: https://drive.google.com/file/d/0Bx7LW_LCYVXxUUpsZlgxdkt5Mm8/view?usp=sharing |  | 
+| 1 | Sept 6 | Course overview, Intro. to Unix. |  | 
 | 2 | Sept 13 | Intro. to Python: Python Enviornment & Editors; Literals |  Assignment 1 out |
 | 3 |  Sept 20 | Sequences (Strings) |  |
 | 4 | Sept 27 |  Sequences (Lists & Tuples) | Assignment 1 due; Assignment 1 out |
@@ -102,7 +100,7 @@ Upon completion of this course students will be able to:
 | 8 | Oct 18 |  Revision & Project Discussion | Assignment 3 due | 
 | 9 | Oct 25 |  Functions  | Project outline due| 
 | 10 | Nov 1 | Errors and Exceptions |
-| 11 | Nov 8 |  Modules & Text processing NLTK Ch. 3 [[link] (http://www.nltk.org/book/)]  |  |
+| 11 | Nov 8 |  Modules & Text processing NLTK Ch. 3 [NLTK-BOOK]  |  |
 | 12 | Nov 15 |  Revision & Group Project In-Class Work |  |
 | 13 | Nov 22 | Revision & Group Project In-Class Work | |
 | 14 | Nov 29 | | | Final paper due |
@@ -198,14 +196,14 @@ The final deliverable should include:
 
 **Written & Spoken English Requirement:** Written and spoken work may receive a lower mark if it is, in the opinion of the instructor, deficient in English. 
 
-**Access & Diversity:** Access & Diversity works with the University to create an inclusive living and learning environment in which all students can thrive. The University accommodates students with disabilities who have registered with the Access and Diversity unit: [http://www.students.ubc.ca/access/drc.cfm]. You must register with the Disability Resource Centre to be granted special accommodations for any on-going conditions. 
-**Religious Accommodation:** The University accommodates students whose religious obligations conflict with attendance, submitting assignments, or completing scheduled tests and examinations. Please let your instructor know in advance, preferably in the first week of class, if you will require any accommodation on these grounds. Students who plan to be absent for varsity athletics, family obligations, or other similar commitments, cannot assume they will be accommodated, and should discuss their commitments with the instructor before the course drop date. UBC policy on Religious Holidays: http://www.universitycounsel.ubc.ca/policies/policy65.pdf.
+**Access & Diversity:** Access & Diversity works with the University to create an inclusive living and learning environment in which all students can thrive. The University accommodates students with disabilities who have registered with the [Access and Diversity unit][7]. You must register with the Disability Resource Centre to be granted special accommodations for any on-going conditions. 
+**Religious Accommodation:** The University accommodates students whose religious obligations conflict with attendance, submitting assignments, or completing scheduled tests and examinations. Please let your instructor know in advance, preferably in the first week of class, if you will require any accommodation on these grounds. Students who plan to be absent for varsity athletics, family obligations, or other similar commitments, cannot assume they will be accommodated, and should discuss their commitments with the instructor before the course drop date. [UBC policy on Religious Holidays][6].
 
 ## Academic Integrity
 **Plagiarism**
 The Faculty of Arts considers plagiarism to be the most serious academic offence that a student can commit. Regardless of whether or not it was committed intentionally, plagiarism has serious academic consequences and can result in expulsion from the university. Plagiarism involves the improper use of somebody else's words or ideas in one's work. 
 
-It is your responsibility to make sure you fully understand what plagiarism is. Many students who think they understand plagiarism do in fact commit what UBC calls "reckless plagiarism." Below is an excerpt on reckless plagiarism from UBC Faculty of Arts' leaflet, "Plagiarism Avoided: Taking Responsibility for Your Work," (http://www.arts.ubc.ca/arts-students/plagiarism-avoided.html).
+It is your responsibility to make sure you fully understand what plagiarism is. Many students who think they understand plagiarism do in fact commit what UBC calls "reckless plagiarism." Below is an excerpt on reckless plagiarism from UBC Faculty of Arts' leaflet, "[Plagiarism Avoided: Taking Responsibility for Your Work]"[4].
 
 "The bulk of plagiarism falls into this category. Reckless plagiarism is often the result of careless research, poor time management, and a lack of confidence in your own ability to think critically. Examples of reckless plagiarism include:
 
@@ -217,8 +215,14 @@ It is your responsibility to make sure you fully understand what plagiarism is. 
 * Using footnotes or material quoted in other sources as if they were the results of your own research; and
 * Submitting a piece of work with inaccurate text references, sloppy footnotes, or incomplete source (bibliographic) information."
 
-Bear in mind that this is only one example of the different forms of plagiarism. Before preparing for their written assignments, students are strongly encouraged to familiarize themselves with the following source on plagiarism: the Academic Integrity Resource Centre http://help.library.ubc.ca/researching/academic-integrity. Additional information is available on the Connect site http://connect.ubc.ca. 
+Bear in mind that this is only one example of the different forms of plagiarism. Before preparing for their written assignments, students are strongly encouraged to familiarize themselves with the following source on plagiarism: the [Academic Integrity Resource Centre] [5].
 
 If after reading these materials you still are unsure about how to properly use sources in your work, please ask me for clarification. Students are held responsible for knowing and following all University regulations regarding academic dishonesty. If a student does not know how to properly cite a source or what constitutes proper use of a source it is the student's personal responsibility to obtain the needed information and to apply it within University guidelines and policies. If evidence of academic dishonesty is found in a course assignment, previously submitted work in this course may be reviewed for possible academic dishonesty and grades modified as appropriate. UBC policy requires that all suspected cases of academic dishonesty must be forwarded to the Dean for possible action. 
 
 [1]: https://www.amazon.ca/Beginning-Python-Professional-Magnus-Hetland/dp/1484200292/ref=sr_1_1?ie=UTF8&qid=1502643391&sr=8-1&keywords=Beginning+Python%3A+from+novice+to+professional
+[2]: http://www.nltk.org/book
+[3]: http://www.scipy-lectures.org/packages/statistics/index.html
+[4]: http://www.arts.ubc.ca/arts-students/plagiarism-avoided.html
+[5]: http://help.library.ubc.ca/researching/academic-integrity
+[6]: http://www.universitycounsel.ubc.ca/policies/policy65.pdf
+[7]: http://www.students.ubc.ca/access/drc.cfm

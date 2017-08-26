@@ -225,4 +225,4 @@ If after reading these materials you still are unsure about how to properly use 
 [4]: http://www.arts.ubc.ca/arts-students/plagiarism-avoided.html
 [5]: http://help.library.ubc.ca/researching/academic-integrity
 [6]: http://www.universitycounsel.ubc.ca/policies/policy65.pdf
-[7]: http://www.students.ubc.ca/access/drc.cfm
+[7]: https://students.ubc.ca/about-student-services/access-diversity

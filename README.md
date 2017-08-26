@@ -113,8 +113,8 @@ Upon completion of this course students will be able to:
 | ---------- | -------- | ------ |
 | ASSIGNMENT 0A: In-Class code | Throughout weeks 2-11 | 20% |
 | ASSIGNMENT 0B: Video Tutorial code | Throughout semester | 10% |
-| ASSIGNMENT 01: | Oct. 4 | 10% |
-| ASSIGNMENT 02: | Oct 18 | 10% |
+| ASSIGNMENT 01: | Sept. 27 | 10% |
+| ASSIGNMENT 02: | Oct 11 | 10% |
 | ASSIGNMENT 03: | Oct 18 | 10% |
 | ASSIGNMENT 04: Term Project (GROUP)| | |
 | Proposal | Oct 25 | 5% |

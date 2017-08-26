@@ -18,8 +18,8 @@ The University of British Columbia
 
 **Office phone:** 6048-274-530
 
-**Office hours:** Mon. 10:00pm-12:00pm or by appointment. I can also handle inquiries via email or Skype 
-if Mondays are not possible for you.
+**Office hours:** Mon. 10:00pm-12:00pm or by appointment. *(I can also handle inquiries via email or Skype 
+if Mondays are not possible for you.)*
 
 **E-mail address:** muhammad.mageed@ubc.ca
 

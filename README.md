@@ -71,9 +71,8 @@ Upon completion of this course students will be able to:
 ## 6. Course syllabus:
 **Required book:**
 
-* [Hetland](https://www.amazon.ca/Beginning-Python-Professional-Magnus-Hetland/dp/1484200292/ref=sr_1_1?ie=UTF8&qid=1502643391&sr=8-1&keywords=Beginning+Python%3A+from+novice+to+professional), M. L. (2006). Beginning Python: from novice to professional (3rd ed.). Apress.). ISBN-10: 1484200292. ISBN-13: 978-1484200292. 
+* [Hetland](https://www.amazon.ca/Beginning-Python-Professional-Magnus-Hetland/dp/1484200292/ref=sr_1_1?ie=UTF8&qid=1502643391&sr=8-1&keywords=Beginning+Python%3A+from+novice+to+professional), M. L. (2006). Beginning Python: from novice to professional (3rd ed.). Apress.). ISBN-10: 1484200292. ISBN-13: 978-1484200292. *(Note we will use the *third edition (March 10 2017)* of the following book)*
 
-*Note we will use the *third edition (March 10 2017)* of the following book*
 
 **Suggested supplemental books:**
 

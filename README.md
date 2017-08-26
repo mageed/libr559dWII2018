@@ -23,7 +23,7 @@ if Mondays are not possible for you.
 
 **E-mail address:** muhammad.mageed@ubc.ca
 
-**iSchool@UBC Student Portal:** http://canvas.ubc.ca
+**iSchool@UBC Student Portal:** <http://canvas.ubc.ca>
 
 
 ## 1.	Course Rationale & Goal: 

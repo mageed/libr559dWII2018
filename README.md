@@ -71,7 +71,7 @@ Upon completion of this course students will be able to:
 ## 6. Course syllabus:
 **Required book:**
 
-* Hetland, M. L. (2006). Beginning Python: from novice to professional (3rd ed.). Apress. https://www.amazon.ca/Beginning-Python-Professional-Magnus-Hetland/dp/1484200292/ref=sr_1_1?ie=UTF8&qid=1502643391&sr=8-1&keywords=Beginning+Python%3A+from+novice+to+professional). ISBN-10: 1484200292. ISBN-13: 978-1484200292. 
+* [Hetland][1], M. L. (2006). Beginning Python: from novice to professional (3rd ed.). Apress.). ISBN-10: 1484200292. ISBN-13: 978-1484200292. 
 
 --> Note we will use the *third edition (March 10 2017)* of the following book
 
@@ -221,3 +221,4 @@ Bear in mind that this is only one example of the different forms of plagiarism.
 
 If after reading these materials you still are unsure about how to properly use sources in your work, please ask me for clarification. Students are held responsible for knowing and following all University regulations regarding academic dishonesty. If a student does not know how to properly cite a source or what constitutes proper use of a source it is the student's personal responsibility to obtain the needed information and to apply it within University guidelines and policies. If evidence of academic dishonesty is found in a course assignment, previously submitted work in this course may be reviewed for possible academic dishonesty and grades modified as appropriate. UBC policy requires that all suspected cases of academic dishonesty must be forwarded to the Dean for possible action. 
 
+[1]: https://www.amazon.ca/Beginning-Python-Professional-Magnus-Hetland/dp/1484200292/ref=sr_1_1?ie=UTF8&qid=1502643391&sr=8-1&keywords=Beginning+Python%3A+from+novice+to+professional

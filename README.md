@@ -203,7 +203,7 @@ The final deliverable should include:
 **Plagiarism**
 The Faculty of Arts considers plagiarism to be the most serious academic offence that a student can commit. Regardless of whether or not it was committed intentionally, plagiarism has serious academic consequences and can result in expulsion from the university. Plagiarism involves the improper use of somebody else's words or ideas in one's work. 
 
-It is your responsibility to make sure you fully understand what plagiarism is. Many students who think they understand plagiarism do in fact commit what UBC calls "reckless plagiarism." Below is an excerpt on reckless plagiarism from UBC Faculty of Arts' leaflet, "[Plagiarism Avoided: Taking Responsibility for Your Work]"(http://www.arts.ubc.ca/arts-students/plagiarism-avoided.html).
+It is your responsibility to make sure you fully understand what plagiarism is. Many students who think they understand plagiarism do in fact commit what UBC calls "reckless plagiarism." Below is an excerpt on reckless plagiarism from UBC Faculty of Arts' leaflet, [Plagiarism Avoided: Taking Responsibility for Your Work](http://www.arts.ubc.ca/arts-students/plagiarism-avoided.html).
 
 "The bulk of plagiarism falls into this category. Reckless plagiarism is often the result of careless research, poor time management, and a lack of confidence in your own ability to think critically. Examples of reckless plagiarism include:
 
@@ -215,7 +215,7 @@ It is your responsibility to make sure you fully understand what plagiarism is. 
 * Using footnotes or material quoted in other sources as if they were the results of your own research; and
 * Submitting a piece of work with inaccurate text references, sloppy footnotes, or incomplete source (bibliographic) information."
 
-Bear in mind that this is only one example of the different forms of plagiarism. Before preparing for their written assignments, students are strongly encouraged to familiarize themselves with the following source on plagiarism: the [Academic Integrity Resource Centre] (http://help.library.ubc.ca/researching/academic-integrity).
+Bear in mind that this is only one example of the different forms of plagiarism. Before preparing for their written assignments, students are strongly encouraged to familiarize themselves with the following source on plagiarism: the [Academic Integrity Resource Centre](http://help.library.ubc.ca/researching/academic-integrity).
 
 If after reading these materials you still are unsure about how to properly use sources in your work, please ask me for clarification. Students are held responsible for knowing and following all University regulations regarding academic dishonesty. If a student does not know how to properly cite a source or what constitutes proper use of a source it is the student's personal responsibility to obtain the needed information and to apply it within University guidelines and policies. If evidence of academic dishonesty is found in a course assignment, previously submitted work in this course may be reviewed for possible academic dishonesty and grades modified as appropriate. UBC policy requires that all suspected cases of academic dishonesty must be forwarded to the Dean for possible action. 
 

@@ -128,7 +128,7 @@ Upon completion of this course students will be able to:
 **Assignments/Requirements in Detail**
 
 
-**Professionalization**
+**Professionalization:**
 In an educational (or work) setting, each of us is expected to learn and demonstrate ability to interact with others professionally and collegially. This is important as it ensures we all work together efficiently. A total of 5% of your grade is devoted to encouraging professional communication related to the course both inside class (e.g., the way you interact with peers and the instructor) and putside class (responding to instructor communication timely). Practically, this means you should come to class in time, ensure your communication with everyone in class is civil, be attentive and do not engage in an external task or browse the social web during the class session, and respond to instructor email timely (e.g., not *consistently* responding after 3 days, but responding the same day or in 1 or 2 days is fine and an occasional delay within reason is also fine [e.g., if you are traveling]). Part of professionalization is clear communication. As such, you are encouraged to ask questions, feely and civily agree/disagree with others, etc. 
 
 **Assignment 0: In-Class & Video Tutorial Code**

@@ -99,7 +99,7 @@ Upon completion of this course students will be able to:
 | 8 | Oct 18 |  Revision & Project Discussion | Assignment 3 due | 
 | 9 | Oct 25 |  Functions  | Project outline due| 
 | 10 | Nov 1 | Errors and Exceptions |
-| 11 | Nov 8 |  Modules & Text processing NLTK Ch. 3 [NLTK-BOOK]  |  |
+| 11 | Nov 8 |  Modules & Text processing NLTK Ch. 3 [nltk-book]  |  |
 | 12 | Nov 15 |  Revision & Group Project In-Class Work |  |
 | 13 | Nov 22 | Revision & Group Project In-Class Work | |
 | 14 | Nov 29 | | | Final paper due |
@@ -108,12 +108,11 @@ Upon completion of this course students will be able to:
 ## 8. Course Assignments:
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
-| ASSIGNMENT 0A: In-Class code | Throughout weeks 2-11 | 20% |
-| ASSIGNMENT 0B: Video Tutorial code | Throughout semester | 10% |
-| ASSIGNMENT 01: | Sept. 27 | 10% |
-| ASSIGNMENT 02: | Oct 11 | 10% |
-| ASSIGNMENT 03: | Oct 18 | 10% |
-| ASSIGNMENT 04: Term Project (GROUP)| | |
+| ASSIGNMENT 0: In-Class & Video Tutorial Code | Throughout weeks 2-11 | 30% |
+| ASSIGNMENT 1: | Sept. 27 | 10% |
+| ASSIGNMENT 2: | Oct 11 | 10% |
+| ASSIGNMENT 3: | Oct 18 | 10% |
+| ASSIGNMENT 4: Term Project (GROUP)| | |
 | Proposal | Oct 25 | 5% |
 | Report/Product | Nov 29 |35% |
 
@@ -123,24 +122,17 @@ Upon completion of this course students will be able to:
 * All written assignments must be submitted before 9:00 am of a respective assignment date;
 * All coding assignments must be submitted in print form as well as the form of a Python script (either .py file or an "iPython/Jupyter notebook"). Support will be provided on how to create ".py" scripts and iPython notebooks;
 * Project proposal/outline must be in a pdf format;
-* All submitted files should be labeled with your last name(s) followed by an underscore and an assignment code. Assignment codes are two digit numbers, e.g., “assignment01,” “asignment02,” or "0A" for In-Class code and "0B" for Video Tutorial code.  
-*For example, "ASSIGNMENT 01" would be submitted as “abdul-mageed_assignment01.ipynb”*
+* All submitted files should be labeled with your last name(s) followed by an underscore and an assignment code. Assignment codes are two digit numbers, i.e., the assignment number preceeded by "0" for readability (e.g., “assignment01,” “asignment02,”). *For example, "ASSIGNMENT 01" would be submitted as “abdul-mageed_assignment01.ipynb”*
 
 **Assignments in Detail**
 
-**Assignment 0A: In-class code**
-Throughout weeks 2-11, you are required to submit the code you write during the class session. This is meant to engage you during the class time and also ensure you are able to run code shared with you during a given session. This assignment will also involve simple extensions of code shared by the instructor. Whenever applicable, you will be pointed to the respective excercises during each session. In-class code will be in the form of short code snippets and you will not be penalized for mistakes you make in the code so long as your code runs for 70% of the respective tasks. In-class assignments are only accepted if you attend class. If you miss a class, this automatically means you are not allowed to submit in-class code for the session/sessions you missed. As such, failure to attend class without excuse (e.g., a sickness or another emergency which you must explain to the instructor over email prior to a class whenever possible) will result in a lower class grade. 
+**Assignment 0: In-Class & Video Tutorial Code**
+Throughout weeks 2-11, you are required to practice coding inside the class session. There will be time in-class devoted to practice where you will be able to a) extend examples the instructor provides in his slides/notebooks and/or b) run code from the Hetland book. The resulting code may end up having some mistakes, look unorganized, lack depth and illustrative examples for a given task, or look identical to what the code instructor provides. To help you write better code and acquire deeper understanding of programming concepts, you will be given the chance to spend some more time at home re-running the same code with more examples. To further enhance the process, the instructor will provide thematically-organized video tutorials that you are required to watch before working further on your in-class code. Once you watch the video relevant to a given week,  you can re-organize and tidy your code, provide depth and run it with more examples, and submit it.
+
+This assignment is meant to engage you both during the class time and at home (where you can involve in content explained in a differnt mode and engage at your chosen time and place). The goal is to ensure you are not only able to run code shared with you during a given session, but also extend it slightly. This assignment is only accepted if you attend class. If you miss a class, this automatically means you are not allowed to submit In-Class & Video Tutorial Code for the session/sessions you missed. As such, failure to attend class without excuse (e.g., a sickness or another emergency which you must explain to the instructor over email prior to a class whenever possible) will result in a lower class grade. *Note: The Video Tutorials are typically short (between 15-30 minutes long each).*
 
 **Deliverables: In-class code snippets**
-A total of 10 code snippets in the form of ".py" or ".ipynb" files for the code you write for weeks 2-11 of class.
-
-
-**Assignment 0B: Video Tutorial code**
-Throughout the semester, you are required to watch a total of 10 video tutorials prepared by the instructor and implement/write the code covered in these tutorials on your own. You are then required to submit the code you wrote as part of the assignment. The purpose of this assignment is to involve you in content explained in a differnt mode that you can engage with at your chosen time and place. This not only maximizes benefit from class time, but should also enhance your understanding of the material and get you practise writing code beyond the class context. These tutorials are usually short (typically between 15-30 minutes long each).  
-
-**Deliverables: Video Tutorial code snippets**
-A total of 10 code snippets based on the 10 video tutorials you will be assigned in the form of ".py" or ".ipynb" files for the code you write through out the semester.
-
+A total of 10 code snippets in the form of ".py" or ".ipynb" files for the code you write based on In-Class practice + Watching Video Tutorials for weeks 2-11 of class.
 
 **Assignment 1-3: Coding assignments**
 These three assignments are coding exercises meant to support learning of the covered content. Each of these will be extensions of problems covered in class. The following criteria are required for each of them:

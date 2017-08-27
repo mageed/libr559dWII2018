@@ -87,22 +87,22 @@ Upon completion of this course students will be able to:
 - H= Hetland, M. L. Book
 - BKL= Bird, S., Klein, E., & Loper, E. Book
 
-| Week | Date | Topic | Readings | Other |
-|-------|-------|-------|-------| -------|
-| 1 | Sept 6 | Course overview, Intro. to Unix. |  | 
-| 2 | Sept 13 | Intro. to Python: Python Enviornment & Editors; Literals |  Assignment 1 out |
-| 3 |  Sept 20 | Sequences (Strings) |  |
-| 4 | Sept 27 |  Sequences (Lists & Tuples) | Assignment 1 due; Assignment 1 out |
-| 5 | Oct 4 | Dictionaries | |
-| 6 | Oct 11 | Conditionals & Loops | Assignment 2 due; Assignment 3 out |
-| 7 | Oct 13 | Files and Input/Output  |  |
-| 8 | Oct 18 |  Revision & Project Discussion | Assignment 3 due | 
-| 9 | Oct 25 |  Functions  | Project outline due| 
-| 10 | Nov 1 | Errors and Exceptions |
-| 11 | Nov 8 |  Modules & Text processing NLTK Ch. 3 [nltk-book]  |  |
-| 12 | Nov 15 |  Revision & Group Project In-Class Work |  |
-| 13 | Nov 22 | Revision & Group Project In-Class Work | |
-| 14 | Nov 29 | | | Final paper due |
+| Week | Date   | Topic                            | Readings       | What is due/out            |
+|------|--------|----------------------------------|----------------|----------------------------|
+| 1    | 6-Sep  | Course overview & Unix Intro.    | No readings    |                            |
+| 2    | 13-Sep | Python Intro., Editors &Literals | Hetland CH01   | assign 1 out               |
+| 3    | 20-Sep | Sequences (Lists & Tuples)       | Hetland CH02   |                            |
+| 4    | 27-Sep | Sequences (Strings)              | Hetland CH03   | assign 1 due; assign 1 out |
+| 5    | 4-Oct  | Dictionaries                     | Hetland CH04   |                            |
+| 6    | 11-Oct | Conditionals & Loops             | Hetland CH05   | assign 2 due; assign 3 out |
+| 7    | 13-Oct | Functions                        | Hetland CH06   | assign 3 due               |
+| 8    | 18-Oct | Revision & Project Discussion    | No readings    |                            |
+| 9    | 25-Oct | Exceptions                       | Hetland CH08   | Project outline due        |
+| 10   | 1-Nov  | Modules                          | Hetland CH10   |                            |
+| 11   | 8-Nov  | Files                            | Hetland CH11   |                            |
+| 12   | 15-Nov | Text processing                  | nltk-book CH03 |                            |
+| 13   | 22-Nov | Revision & Project Work          | No readings    |                            |
+| 14   | 29-Nov | Revision & Project Work          | No readings    | Final paper due            |
 
 
 ## 8. Course Assignments/Grades:

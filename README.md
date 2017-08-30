@@ -89,7 +89,7 @@ Upon completion of this course students will be able to:
 
 | Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
-| 1    | 6-Sep  | Course overview & Unix Intro.    | No readings /[unix](https://github.com/mageed/libr559cWI2017/blob/master/slides/mam_unix.pptx)  |                            |
+| 1    | 6-Sep  | Course overview & Unix Intro.    | No readings / [zero](https://github.com/mageed/libr559cWI2017/blob/master/slides/mam_unix.pptx)  |                            |
 | 2    | 13-Sep | Python Intro., Editors &Literals | Hetland CH01 / [one](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_one.ipynb)   | assign 1 out               |
 | 3    | 20-Sep | Sequences (Lists & Tuples)       | Hetland CH02 / [two](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_two.ipynb)   |                            |
 | 4    | 27-Sep | Sequences (Strings)              | Hetland CH03 / [three](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_three.ipynb)   | assign 1 due; assign 1 out |

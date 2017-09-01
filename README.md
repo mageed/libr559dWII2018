@@ -91,10 +91,10 @@ Upon completion of this course students will be able to:
 |------|--------|----------------------------------|----------------|----------------------------|
 | 1    | 6-Sep  | Course overview & Unix Intro.    | No readings / [zero](https://github.com/mageed/libr559cWI2017/blob/master/slides/mam_unix.pptx)  |                            |
 | 2    | 13-Sep | Python Intro., Editors &Literals | Hetland CH01 / [one](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_one.ipynb)   | assign 1 out               |
-| 3    | 20-Sep | Sequences (Lists & Tuples)       | Hetland CH02 / [two](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_two.ipynb)   |                            |
-| 4    | 27-Sep | Sequences (Strings)              | Hetland CH03 / [three](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_three.ipynb)   | assign 1 due; assign 1 out |
-| 5    | 4-Oct  | Dictionaries                     | Hetland CH04 / [four](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_four.ipynb)   |                            |
-| 6    | 11-Oct | Conditionals & Loops             | Hetland CH05 / [five](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_five.ipynb)   | assign 2 due; assign 3 out |
+| 3    | 20-Sep | Sequences (Lists & Tuples)       | Hetland CH02 / [two](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_two.ipynb)  & [three](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_three.ipynb) |                            |
+| 4    | 27-Sep | Sequences (Strings)              | Hetland CH03 / [four](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_four.ipynb)  | assign 1 due; assign 1 out |
+| 5    | 4-Oct  | Dictionaries                     | Hetland CH04 / [five](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_five.ipynb)  |                            |
+| 6    | 11-Oct | Conditionals & Loops             | Hetland CH05 / | assign 2 due; assign 3 out |
 | 7    | 13-Oct | Functions                        | Hetland CH06   | assign 3 due               |
 | 8    | 18-Oct | Revision & Project Discussion    | No readings    |                            |
 | 9    | 25-Oct | Exceptions                       | Hetland CH08   | Project outline due        |

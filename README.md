@@ -84,9 +84,6 @@ Upon completion of this course students will be able to:
 
 ## 7. Calendar / Weekly schedule and readings (tentative)
 
-- H= Hetland, M. L. Book
-- BKL= Bird, S., Klein, E., & Loper, E. Book
-
 | Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
 | 1    | 6-Sep  | Course overview & Unix Intro.    | No readings / [zero](https://github.com/mageed/libr559cWI2017/blob/master/slides/mam_unix.pptx); [vid_1](https://drive.google.com/file/d/0Bx7LW_LCYVXxaERSQWxwVTlTTGs/view?usp=sharing); [vid_2](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
@@ -95,15 +92,13 @@ Upon completion of this course students will be able to:
 | 4    | 27-Sep | Sequences (Strings) | Hetland CH03 / [four](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_four.ipynb)  | assign 1 due; assign 2 out |
 | 5    | 4-Oct  | Dictionaries                     | Hetland CH04 / [five](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
 | 6    | 11-Oct | Conditionals & Loops             | Hetland CH05 / [six](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_six.ipynb) | assign 2 due; assign 3 out |
-| 7    | 13-Oct | Functions                        | Hetland CH06 / [seven](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_seven.ipynb) |                            |
-| 8    | 18-Oct | Revision & Project Discussion    | No readings    | assign 3 due               |
-| 9    | 25-Oct | Exceptions                       | Hetland CH08   |                            |
-| 10   | 1-Nov  | Modules                          | Hetland CH10   | Project outline due        |
-| 11   | 8-Nov  | Files                            | Hetland CH11   |                            |
-| 12   | 15-Nov | Text processing                  | nltk-book CH03 |                            |
-| 13   | 22-Nov | Revision & Project Work          | No readings    |                            |
-| 14   | 29-Nov | Revision & Project Work          | No readings    | Final paper due            |
-
+| 7    | 18-Oct | Functions                        | Hetland CH06 / [seven](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_seven.ipynb) |                            |
+| 8    | 25-Oct | Revision & Project Discussion    | No readings    | assign 3 due               |
+| 9    | 1-Nov| Exceptions                       | Hetland CH08   |                            |
+| 10   | 8-Nov  | Modules                          | Hetland CH10   | Project outline due        |
+| 11   | 15-Nov  | Files                            | Hetland CH11   |                            |
+| 12   | 22-Nov  | Text processing                  | nltk-book CH03 |                            |
+| 13   | 29-Nov | Revision & Project Work          | No readings    | Final paper due                          |
 
 ## 8. Course Assignments/Grades:
 | Assignment | Due date | Weight |
@@ -129,7 +124,7 @@ Upon completion of this course students will be able to:
 
 
 **Professionalization:**
-In an educational (or work) setting, each of us is expected to learn and demonstrate ability to interact with others professionally and collegially. This is important as it ensures we all work together efficiently. A total of 5% of your grade is devoted to encouraging professional communication related to the course both inside class (e.g., the way you interact with peers and the instructor) and putside class (responding to instructor communication timely). Practically, this means you should come to class in time, ensure your communication with everyone in class is civil, be attentive and do not engage in an external task or browse the social web during the class session, and respond to instructor email timely (e.g., not *consistently* responding after 3 days, but responding the same day or in 1 or 2 days is fine and an occasional delay within reason is also fine [e.g., if you are traveling]). Part of professionalization is clear communication. As such, you are encouraged to ask questions, feely and civilly agree/disagree with others, etc. 
+In an educational (or work) setting, each of us is expected to learn and demonstrate ability to interact with others professionally and collegially. This is important as it ensures we all work together efficiently. A total of 5% of your grade is devoted to encouraging professional communication related to the course both inside class (e.g., the way you interact with peers and the instructor) and outside class (responding to instructor communication timely). Practically, this means you should come to class in time, ensure your communication with everyone in class is civil, be attentive and do not engage in an external task or browse the social web during the class session, and respond to instructor email timely (e.g., not *consistently* responding after 3 days, but responding the same day or in 1 or 2 days is fine and an occasional delay within reason is also fine [e.g., if you are traveling]). Part of professionalization is clear communication. As such, you are encouraged to ask questions, feely and civilly agree/disagree with others, etc. 
 
 **Assignment 0: In-Class & Video Tutorial Code**
 Throughout weeks 2-11, you are required to practice coding inside the class session. There will be time in-class devoted to practice where you will be able to a) extend examples the instructor provides in his slides/notebooks and/or b) run code from the Hetland book. The resulting code may end up having some mistakes, look unorganized, lack depth and illustrative examples for a given task, or look identical to what the code instructor provides. To help you write better code and acquire deeper understanding of programming concepts, you will be given the chance to spend some more time at home re-running the same code with more examples. To further enhance the process, the instructor will provide thematically-organized video tutorials that you are required to watch before working further on your in-class code. Once you watch the video relevant to a given week,  you can re-organize and tidy your code, provide depth and run it with more examples, and submit it.

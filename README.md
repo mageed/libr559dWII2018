@@ -86,13 +86,13 @@ Upon completion of this course students will be able to:
 
 | Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
-| 1    | 6-Sep  | Course overview & Unix Intro.    | No readings / [zero](https://github.com/mageed/libr559cWI2017/blob/master/slides/mam_unix.pptx); [vid_1](https://drive.google.com/file/d/0Bx7LW_LCYVXxaERSQWxwVTlTTGs/view?usp=sharing); [vid_2](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
-| 2    | 13-Sep | Python Intro., Editors &Literals | Hetland CH01 / [one](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_one.ipynb); [vid_3](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (literals_stings.mov) | assign 1 out               |
-| 3    | 20-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [two](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_two.ipynb)  & [three](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_three.ipynb); [vid_4](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (revision_lists_tuples.mov) |                            |
-| 4    | 27-Sep | Sequences (Strings) | Hetland CH03 / [four](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_four.ipynb)  | assign 1 due; assign 2 out |
-| 5    | 4-Oct  | Dictionaries                     | Hetland CH04 / [five](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
-| 6    | 11-Oct | Conditionals & Loops             | Hetland CH05 / [six](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_six.ipynb) | assign 2 due; assign 3 out |
-| 7    | 18-Oct | Functions                        | Hetland CH06 / [seven](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_seven.ipynb) |                            |
+| 1    | 6-Sep  | Course overview & Unix Intro.    | No readings / [slides_0](https://github.com/mageed/libr559cWI2017/blob/master/slides/mam_unix.pptx); [vid_1](https://drive.google.com/file/d/0Bx7LW_LCYVXxaERSQWxwVTlTTGs/view?usp=sharing); [vid_2](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
+| 2    | 13-Sep | Python Intro., Editors &Literals | Hetland CH01 / [slides_1](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_one.ipynb); [vid_3](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (literals_stings.mov) | assign 1 out               |
+| 3    | 20-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [slides_2](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_two.ipynb)  & [three](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_three.ipynb); [vid_4](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (revision_lists_tuples.mov) |                            |
+| 4    | 27-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_four.ipynb)  | assign 1 due; assign 2 out |
+| 5    | 4-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
+| 6    | 11-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_six.ipynb) | assign 2 due; assign 3 out |
+| 7    | 18-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_seven.ipynb) |                            |
 | 8    | 25-Oct | Revision & Project Discussion    | No readings    | assign 3 due               |
 | 9    | 1-Nov| Exceptions                       | Hetland CH08   |                            |
 | 10   | 8-Nov  | Modules                          | Hetland CH10   | Project outline due        |

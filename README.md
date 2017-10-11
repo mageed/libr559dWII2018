@@ -91,10 +91,10 @@ Upon completion of this course students will be able to:
 | 3    | 20-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [slides_2](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_two.ipynb)  & [slides_3](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_three.ipynb); [vid_4](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (revision_lists_tuples.mov) |                            |
 | 4    | 27-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_four.ipynb)  | assign 1 due; assign 2 out |
 | 5    | 4-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
-| 6    | 11-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_six.ipynb) | assign 2 due; assign 3 out |
-| 7    | 18-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_seven.ipynb) |                            |
-| 8    | 25-Oct | Revision & Project Discussion    | No readings    | assign 3 due               |
-| 9    | 1-Nov| Exceptions                       | Hetland CH08   |                            |
+| 6    | 11-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_six.ipynb) | assign 2 due |
+| 7    | 18-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_seven.ipynb) |        assign 3 out                    |
+| 8    | 25-Oct | Revision & Project Discussion    | No readings    |                |
+| 9    | 1-Nov| Exceptions                       | Hetland CH08   |     assign 3 due                       |
 | 10   | 8-Nov  | Modules                          | Hetland CH10   | Project outline due        |
 | 11   | 15-Nov  | Files                            | Hetland CH11   |                            |
 | 12   | 22-Nov  | Text processing                  | nltk-book CH03 |                            |

@@ -109,7 +109,7 @@ Upon completion of this course students will be able to:
 | ASSIGNMENT 2: | Oct 11 | 10% |
 | ASSIGNMENT 3: | Nov. 1 | 10% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
-| Proposal | Oct 25 | 5% |
+| Proposal/Outline | Nov 8 | 5% |
 | Report/Product | Nov 29 |30% |
 
 

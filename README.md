@@ -93,7 +93,7 @@ Upon completion of this course students will be able to:
 | 5    | 4-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
 | 6    | 11-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_six.ipynb) | assign 2 due |
 | 7    | 18-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_seven.ipynb) |        assign 3 out                    |
-| 8    | 25-Oct | Revision & Project Discussion    | No readings    |                |
+| 8    | 25-Oct | Revision & Project Discussion    | No readings  / [slides_8](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_eight.ipynb)  |               |
 | 9    | 1-Nov| Exceptions                       | Hetland CH08   |     assign 3 due                       |
 | 10   | 8-Nov  | Modules                          | Hetland CH10   | Project outline due        |
 | 11   | 15-Nov  | Files                            | Hetland CH11   |                            |

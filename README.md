@@ -95,7 +95,7 @@ Upon completion of this course students will be able to:
 | 7    | 18-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_seven.ipynb) |        assign 3 out                    |
 | 8    | 25-Oct | Revision & Project Discussion    | No readings  / [slides_8](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_eight.ipynb)  |               |
 | 9    | 1-Nov| Exceptions                       | Hetland CH08 /[slides_9](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_nine.ipynb)  |     assign 3 due                       |
-| 10   | 8-Nov  | Modules                          | Hetland CH10   | Project outline due        |
+| 10   | 8-Nov  | Modules                          | Hetland CH10 /[slides_10](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_ten.ipynb)  | Project outline due        |
 | 11   | 15-Nov  | Files                            | Hetland CH11   |                            |
 | 12   | 22-Nov  | Text processing                  | nltk-book CH03 |                            |
 | 13   | 29-Nov | Revision & Project Work          | No readings    | Final paper due                          |

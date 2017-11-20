@@ -82,19 +82,21 @@ Upon completion of this course students will be able to:
 
 | Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
-| 1    |        | Course overview; Intro. to social media intelligence/mining; Course overview; Intro. to social media intelligence/mining; Course overview; Intro. to social media intelligence/mining; Course overview; Intro. to social media intelligence/mining    |     |                            |
-| 2    | 13-Sep | Python Intro., Editors &Literals | Hetland CH01 / [slides_1](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_one.ipynb); [vid_3](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (literals_stings.mov) | assign 1 out               |
-| 3    | 20-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [slides_2](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_two.ipynb)  & [slides_3](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_three.ipynb); [vid_4](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (revision_lists_tuples.mov) |                            |
-| 4    | 27-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_four.ipynb)  | assign 1 due; assign 2 out |
-| 5    | 4-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
-| 6    | 11-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_six.ipynb) | assign 2 due |
-| 7    | 18-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_seven.ipynb) |        assign 3 out                    |
-| 8    | 25-Oct | Revision & Project Discussion    | No readings  / [slides_8](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_eight.ipynb)  |               |
-| 9    | 1-Nov| Exceptions                       | Hetland CH08 /[slides_9](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_nine.ipynb)  |     assign 3 due                       |
-| 10   | 8-Nov  | Modules                          | Hetland CH10 /[slides_10](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_ten.ipynb)  | Project outline due        |
-| 11   | 15-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_eleven.ipynb)  |                            |
-| 12   | 22-Nov  | Text processing                  | nltk-book CH03 |                            |
-| 13   | 29-Nov | Revision & Project Work          | No readings    | Final paper due                          |
+| 1    |        | Course overview; Intro. to social media    | Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [link] (http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00393.x/full)  |                            |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
+| 2    |  |  | assign 1 out               |
 
 ## 8. Course Assignments/Grades:
 | Assignment | Due date | Weight |

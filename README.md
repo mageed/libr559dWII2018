@@ -82,7 +82,7 @@ Upon completion of this course students will be able to:
 
 | Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
-| 1    | 6-Sep  | Course overview & Unix Intro.    | No readings / [slides_0](https://github.com/mageed/libr559cWI2017/blob/master/slides/mam_unix.pptx); [vid_1](https://drive.google.com/file/d/0Bx7LW_LCYVXxaERSQWxwVTlTTGs/view?usp=sharing); [vid_2](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
+| 1    |        | Course overview; Intro. to social media intelligence/mining; Course overview; Intro. to social media intelligence/mining; Course overview; Intro. to social media intelligence/mining; Course overview; Intro. to social media intelligence/mining    |     |                            |
 | 2    | 13-Sep | Python Intro., Editors &Literals | Hetland CH01 / [slides_1](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_one.ipynb); [vid_3](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (literals_stings.mov) | assign 1 out               |
 | 3    | 20-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [slides_2](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_two.ipynb)  & [slides_3](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_three.ipynb); [vid_4](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (revision_lists_tuples.mov) |                            |
 | 4    | 27-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/mageed/libr559cWI2017/blob/master/slides/unit_four.ipynb)  | assign 1 due; assign 2 out |

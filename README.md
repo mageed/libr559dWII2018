@@ -82,7 +82,7 @@ Upon completion of this course students will be able to:
 
 | Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
-| 1    |        | Course overview; Intro. to social media    | * Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [link] (http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00393.x/full)  |                            |
+| 1    |        | Course overview; Intro. to social media    | <ul><li>Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [link](http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00393.x/full)</li></ul>  |                            |
 | 2    |  |  | assign 1 out               |
 | 2    |  |  | assign 1 out               |
 | 2    |  |  | assign 1 out               |

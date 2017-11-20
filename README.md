@@ -80,9 +80,9 @@ Upon completion of this course students will be able to:
 
 ## 7. Calendar / Weekly schedule and readings (tentative)
 
-| Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
+| Week | Date   | Topic                            | Readings     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
-| 1    |        | <ul><li>Course overview</li></ul> <ul><li>Intro. to social media </li></ul>   | <ul><li>Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. ([link])(http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00393.x/full)</li></ul>  |                            |
+| 1    |        | <ul><li>Course overview</li></ul> <ul><li>Intro. to social media </li></ul>   | <ul><li>Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [link](http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00393.x/full)</li></ul>  |                            |
 | 2    |  |  | assign 1 out               |
 | 2    |  |  | assign 1 out               |
 | 2    |  |  | assign 1 out               |

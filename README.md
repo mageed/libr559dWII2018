@@ -1,6 +1,6 @@
 # Social Media Intelligence
-## School of Information
-## The University of British Columbia
+### School of Information
+### The University of British Columbia
 
 **Course title:** Social Media Intelligence: LIBR 559D 
 

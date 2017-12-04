@@ -57,6 +57,7 @@ Upon completion of this course students will be able to:
 
 ## 4.	Prerequisites:  
 * MLIS and Dual MAS/MLIS: Completion of MLIS Core or permission of SLAIS Graduate Advisor.
+* Some very basic familiarity with computer code in a language like Python and/or openness to learn/pick up some basic coding skills during the term. (If interested, you can use online tutorials on the instructor Python course [here](https://github.com/mageed/libr559cWI2017)).
 * Access to a computer: There will be machines in the lab where class is held, but you will need to use your own machine or have access to a machine on a regular basis. You should make your own arrangements for this.
 
 ## 5.	Format of the course: 

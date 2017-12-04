@@ -74,8 +74,8 @@ Upon completion of this course students will be able to:
 
 | Week | Date   | Topic                            | Readings     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
-| 1    |  Jan. 8  | <ul><li>Course overview</li></ul>  |   |                            |
-| 2    | Jan. 15  | <ul><li>Intro. to social media </li></ul> |    |           |
+| 1    |  Jan. 8  | Course overview  |   |                            |
+| 2    | Jan. 15  | Intro. to social media |    |           |
 | 3    |  Jan. 22 |  Social publishing |                |
 | 4    | Jan. 29 |  Social media management |                |
 | 5    |  Feb. 5 |  Analytics with NLP I |              |

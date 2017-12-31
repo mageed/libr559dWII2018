@@ -50,7 +50,6 @@ Upon completion of this course students will be able to:
 * Social data crawling and engineering;
 * Predictive analytics with natural language processing & machine learning;
 * Practical social media intelligence tasks:
-* Age and gender detection;
 * Misinformation & fake news;
 * Sentiment analysis; 
 * Emotion detection;
@@ -85,9 +84,9 @@ Upon completion of this course students will be able to:
 | 7    | Feb. 19 | Mid-Term Break: No class |               |
 | 8    |  Feb. 26 |  Analytics with NLP II |                |
 | 9    | March 5 |  Data Crawling |                |
-| 10    | March 12 |  Sentiment and Emotion |                |
-| 11   |  March 19 |  Age and gender detection |                |
-| 12   |  March 26 |  Misinformation & fake news |              |
+| 10    | March 12 |  Sentiment Analysis |                |
+| 11   |  March 19 |  Emotion Detection |                |
+| 12   |  March 26 |  Misinformation & Fake News |              |
 | 13   |  April 2|  Student Presentations & Wrap-Up |              |
 
 ## 8. Readings:
@@ -116,23 +115,40 @@ Upon completion of this course students will be able to:
 **Week 5: Analytics with NLP I**
 * Chapter 1 of Jurafsky, D., & Martin, J. H. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. (2nd ed.) [[Link](https://nlp.stanford.edu/~manning/xyzzy/JurafskyMartinEd2book.pdf)]. (Note: The authors are preparing a 3rd edition that is also available online [[link](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)], but no introductory chapter is available yet).
 
-**Week 6: Analytics with NLP II**
+**Week 6**
+* NA.
+
+**Week 7**
+* NA.
+
+**Week 8: Analytics with NLP II**
 * No readings.
 
-**Week 7: Data Crawling**
+**Week 9: Data Crawling**
 * No readings.
 
-**Week 8**
+**Week 10: Sentiment Analysis**
 
-**Week 9**
+* Abdul-Mageed, M., & Diab, M. (2012). AWATIF: A multi-genre corpus for Modern Standard Arabic subjectivity and sentiment analysis. Proceedings of LREC, Istanbul, Turkey. [pdf] 
 
-**Week 10**
+* Polanyi, L., & Zaenen, A. (2006). Contextual valence shifters. Computing attitude and affect in text: Theory and applications, 1-10. [[pdf](http://www.aaai.org/Papers/Symposia/Spring/2004/SS-04-07/SS04-07-020.pdf)] 
 
-**Week 11**
+*Further Readings*
 
-**Week 12**
+* Abdul-Mageed, M. & Diab, M. (2011). Subjectivity and Sentiment Annotation of Modern Standard Arabic Newswire. Proceedings of the the Fourth Linguistic Annotation Workshop. Portland, Oregon, USA, June 23-24, 2011. [pdf] [bib]
 
-**Week 13**
+**Week 11: Emotion Detection**
+
+* Abdul-Mageed, M., & Ungar, L. (2017). Emonet: Fine-grained emotion detection with gated recurrent neural networks. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (Vol. 1, pp. 718-728).
+
+*Further Readings*
+
+* Saima Aman and Stan Szpakowicz. 2007. Identifying expressions of emotion in text. In Vclav Matouˇsek and Pavel Mautner, editors, Text, Speech and Dialogue, volume 4629 of Lecture Notes in Computer Science, pages 196-205. Springer Berlin / Heidelberg. [[pdf](http://ccc.inaoep.mx/~villasen/bib/Identifying%20Expression%20of%20Emotion%20in%20Text.pdf)] 
+
+**Week 12: Misinformation & Fake News**
+
+**Week 13: Revision & Wrap-Up**
+
 
 ## 9. Course Assignments/Grades:
 | Assignment | Due date | Weight |

@@ -78,7 +78,7 @@ Upon completion of this course students will be able to:
 | 1    |  Jan. 8  | Course overview  |   |                            |
 | 2    | Jan. 15  | Intro. to social media |    |           |
 | 3    |  Jan. 22 |  Social publishing |                |
-| 4    | Jan. 29 |  Social media management |                |
+| 4    | Jan. 29 |  Social media as text |                |
 | 5    |  Feb. 5 |  Analytics with NLP I |              |
 | 6    | Feb.12 |  Family Day: No class |               |
 | 7    | Feb. 19 | Mid-Term Break: No class |               |

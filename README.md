@@ -73,13 +73,10 @@ Upon completion of this course students will be able to:
 
 ## 7. Calendar / Weekly schedule and readings (tentative)
 
-| Week | Date   | Topic                            | Readings     | What is due/out            |
-|------|--------|----------------------------------|----------------|----------------------------|
-| 1    |  Jan. 8  | Course overview  |   |                            |
-| 2    | Jan. 15  | Intro. to social media |   <dl>
-  <dt>Definition list</dt>
-  <dd> Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [[link](http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.html)]
-</dl> |           |
+| Week | Date   | Topic                            | What is due/out            |
+|------|--------|----------------------------------|----------------------------|
+| 1    |  Jan. 8  | Course overview  |                           |
+| 2    | Jan. 15  | Intro. to social media |           |
 | 3    |  Jan. 22 |  Social publishing |                |
 | 4    | Jan. 29 |  Social media as text |                |
 | 5    |  Feb. 5 |  Analytics with NLP I |              |

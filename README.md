@@ -92,18 +92,29 @@ Upon completion of this course students will be able to:
 
 ## 8. Readings:
 
-**Week 1**
+**Week 1: Course Overview**
 * No readings.
 
-**Week 2**
+**Week 2: Intro. to Social Media**
 
 * Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [[link](http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.html)]
 
-**Week 3**
+**Week 3: Social Publishing**
 
-**Week 4**
+* LB Ch11: Distribution, Application, and Promotion 
+* LB Ch12: The Rise of Visual Reporting 
+* LB Ch13: Scoring Influence 
 
-**Week 5**
+*Further Readings:*
+- 9 Social Media Dashboards To Manage Multiple Social Media Profiles. [[link](http://socialmediafuze.com/9-social-media-dashboards-to-manage-multiple-social-media-profiles/)]
+- The 15 Best Free Social Media Dashboards and Tools. [[link](https://www.linkedin.com/pulse/15-best-free-social-media-dashboards-tools-andrea-rufino)]
+
+**Week 4: Social Media as Text**
+
+* Wikipedia article on "Linguistics": [[Link](https://en.wikipedia.org/wiki/Linguistics).
+
+**Week 5: Analytics with NLP I**
+* Chapter 1 of Jurafsky, D., & Martin, J. H. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. (2nd ed.)
 
 **Week 6**
 

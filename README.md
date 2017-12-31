@@ -70,8 +70,9 @@ Upon completion of this course students will be able to:
 
 **Other required and Recommended Reading:** 
 * Weekly readings will be assigned from materials available through the UBC library and online.
+* See "Readings Section below"
 
-## 7. Calendar / Weekly schedule and readings (tentative)
+## 7. Calendar / Weekly schedule (tentative)
 
 | Week | Date   | Topic                            | What is due/out            |
 |------|--------|----------------------------------|----------------------------|
@@ -89,9 +90,38 @@ Upon completion of this course students will be able to:
 | 12   |  March 26 |  Misinformation & fake news |              |
 | 13   |  April 2|  Student Presentations & Wrap-Up |              |
 
+## 8. Readings:
 
+**Week 1**
+* No readings.
 
-## 8. Course Assignments/Grades:
+**Week 2**
+
+* Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [[link](http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.html)]
+
+**Week 3**
+
+**Week 4**
+
+**Week 5**
+
+**Week 6**
+
+**Week 7**
+
+**Week 8**
+
+**Week 9**
+
+**Week 10**
+
+**Week 11**
+
+**Week 12**
+
+**Week 13**
+
+## 9. Course Assignments/Grades:
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
 | Professionalization & Class Participation |  Throughout | 15% |
@@ -102,7 +132,7 @@ Upon completion of this course students will be able to:
 
 
 
-## 9. Course Policies
+## 10. Course Policies
 
 **Attendance:** The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
 

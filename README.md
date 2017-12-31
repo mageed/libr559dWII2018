@@ -111,10 +111,10 @@ Upon completion of this course students will be able to:
 
 **Week 4: Social Media as Text**
 
-* Wikipedia article on "Linguistics": [Link](https://en.wikipedia.org/wiki/Linguistics).
+* Wikipedia article on "Linguistics": [[Link](https://en.wikipedia.org/wiki/Linguistics)].
 
 **Week 5: Analytics with NLP I**
-* Chapter 1 of Jurafsky, D., & Martin, J. H. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. (2nd ed.) [Link](https://nlp.stanford.edu/~manning/xyzzy/JurafskyMartinEd2book.pdf). (Note: The authors are preparing a 3rd edition that is also available online [link](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf), but no introductory chapter is available yet).
+* Chapter 1 of Jurafsky, D., & Martin, J. H. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. (2nd ed.) [[Link](https://nlp.stanford.edu/~manning/xyzzy/JurafskyMartinEd2book.pdf)]. (Note: The authors are preparing a 3rd edition that is also available online [[link](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)], but no introductory chapter is available yet).
 
 **Week 6: Analytics with NLP II**
 * No readings.

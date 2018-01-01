@@ -251,9 +251,9 @@ Text Analysis"). Farzindar, A., & Inkpen, D. (2017). Natural language processing
 
 ## ASSIGNMENT 1: *Social media in professional settings report* 
 
-In this assignment, students will write a critical report focused at social media use in professional settings (e.g., government, coroprates, educational organizations, libraries, museums). The report should discuss the most general cases of social media use in a number of chosen settings (3-4) and then focus more on a seeting of the student choice. The report should be illustrated with real world examples of social media accounts. A rubric will be provided to walk students through the different steps. 
+In this assignment, students will write a critical report focused at social media use in professional settings (e.g., government, coroprates, educational organizations, libraries, museums). The report should discuss the most general cases of social media use in a number of chosen settings (3-4) and then focus more on a setting of the student choice. The report should be illustrated with real world examples of social media accounts. A rubric will be provided to walk students through the different steps. 
 
-## Deliverables: *Social media in professional settings report (~ 1500 words)*
+### Deliverables: *Social media in professional settings report (~ 1500 words)*
 
 ## ASSIGNMENT 2: *Analysis and evaluation of a professional social media source* 
 

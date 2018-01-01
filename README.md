@@ -83,7 +83,7 @@ Upon completion of this course students will be able to:
 | 6    | Feb.12 |  Family Day: No class |               |
 | 7    | Feb. 19 | Mid-Term Break: No class |               |
 | 8    |  Feb. 26 |  Analytics with NLP II |                |
-| 9    | March 5 |  Data Crawling |                |
+| 9    | March 5 |  Data Engineering |                |
 | 10    | March 12 |  Sentiment Analysis |                |
 | 11   |  March 19 |  Emotion Detection |                |
 | 12   |  March 26 |  Misinformation & Fake News |              |
@@ -124,7 +124,7 @@ Upon completion of this course students will be able to:
 **Week 8: Analytics with NLP II**
 * No readings.
 
-**Week 9: Data Crawling**
+**Week 9: Data Engineering**
 * No readings.
 
 **Week 10: Sentiment Analysis**

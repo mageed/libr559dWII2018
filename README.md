@@ -241,12 +241,57 @@ Text Analysis"). Farzindar, A., & Inkpen, D. (2017). Natural language processing
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
 | Professionalization & Class Participation |  Throughout | 15% |
-| ASSIGNMENT 1: Social Media in Professional Settings Report |  Week 3: Jan. 22 | 20% |
+| ASSIGNMENT 1: Social media in professional settings report |  Week 3: Jan. 22 | 20% |
 | ASSIGNMENT 2: Analysis and evaluation of a professional social media source |  Week 7: Feb. 19th | 25% |
 | ASSIGNMENT 3_A: Project Proposal |    Week 10: March 12 | 5% |
 | ASSIGNMENT 3_B: Term Project (GROUP of 3) |   April 9   | 35% |
 
+## Notes on Assignments:
 
+
+## ASSIGNMENT 1: *Social media in professional settings report* 
+
+In this assignment, students will write a critical report focused at social media use in professional settings (e.g., government, coroprates, educational organizations, libraries, museums). The report should discuss the most general cases of social media use in a number of chosen settings (3-4) and then focus more on a seeting of the student choice. The report should be illustrated with real world examples of social media accounts. A rubric will be provided to walk students through the different steps. 
+
+## Deliverables: *Social media in professional settings report (~ 1500 words)*
+
+## ASSIGNMENT 2: *Analysis and evaluation of a professional social media source* 
+
+For this assignment, students are expected to use a rubric that will be provided by the instructor as a basis for conducting a content analysis of a social media source of their choice. The source can be one or more of the social media accounts of a library, museum, company, school, or any other organization. The rubric will guide you for analyzing the social media outlet of the organization (e.g., the Twitter account of the Vancouver Public Library https://twitter.com/VPL) in terms of, for example, frequency and time of postings, media used, interaction with users, topics of posts, network (e.g., which users are followed). Based on your analysis, you are expected to provide a critical evaluation of the extent to which the organization is successful in employing social media to reach its goal, including compared to similar organizations. As a result of your evaluation, you should include a section of recommendations to improve the performance of the organization on the social media platform you analyzed.
+
+## Deliverables: *A critical analysis and evaluation of a professional social media outlet (~ 2000 words)*
+
+For this assignment, students are required to provide a written report with their analysis and evaluation. The evaluation should be supported by quantitative evidence as well as a qualitative appraisal of the performance of the source. You should include a brief introduction, follow by the analysis and evaluation (you have the freedom to thematically organize the analysis and evaluation into different subsection), a section on recommendations as described above, and a conclusion. You are expected to follow norms of academic writing and document and support your claims by academic and professional references. You are also encouraged to make use of Tables, figures, screenshots, and visualizations.
+
+**ASSIGNMENT 3:** Term Project
+
+The purposes of this assignment include:
+- Identifying, analyzing, assessing, and solving a problem via use of social media data;
+- Applying social media intelligence methods to a practical task of your choice, after consultation with the instructor;
+- Developing oral and written communication skills through discussions with classmates and instructor;
+- Demonstrating ability to work as part of a team, including initiative taking, integrity, dependability and co-operation, and effective collaboration.
+
+For this assignment, each student is required to work as part of a group of of 3\* on a project involving a practical task. Example projects include collecting Twitter data toward a specific topic and analyzes people’s views (pros and cons) around the topic (e.g., Syrian refugees, gun control, satisfaction with government performance on a given sector). This can be done via use of sentiment analysis, for example. Students can also choose problems for which a gender comparison is expected to yield interesting insights (e.g., gender differences as to affect, activities, topical interests, language styles, personality). For a third example, students can choose to extend ASSIGNMENT 2 by collecting more data from various sources and applying more extensive analyses. The final project should be demonstrably more in-depth and of a wider focus (both in terms of data and analysis) than the first two assignments.
+
+* A group of a different size may be possible after consultation with the instructor.
+
+**Deliverables** 
+**Proposal (500-700 words)**
+- Who are the the group members?
+- What are you mining?
+- What motivates your work? Why is it important or useful to undertake the chosen task?
+- How does your project compare to other projects people have conducted in the past?
+- What are the different steps you will take to ensure success of the project? What are the smaller segments of which the bigger task is composed? And how will you conduct each small task?
+- How does the work bread down and what each member of the team be contributing?
+- Timeline for completing the project, including goals for each segment.
+
+**Final Report/Paper (3500-4000 words)** 
+The final deliverable should include:
+- A detailed and clear description of your project, including the necessary sections, as appropriate. For example, you will need to include an abstract, introduction, research questions, a literature review, a description of datasets, implementation details and methods employed, results, and a conclusion involving limitations and future directions;
+- All data used, whenever possible;
+- Pointers to a live version of the project, if any;
+- As appropriate, you should situate your work within the wider context of previous works and approaches, with supporting arguments (~ 15 sources);
+- Employment of figures, tables, and visualizations as appropriate to enhance argument and facilitate communicating your findings/results;
 
 ## 10. Course Policies
 

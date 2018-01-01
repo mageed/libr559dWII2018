@@ -163,6 +163,8 @@ Upon completion of this course students will be able to:
 
 * Mele, N., Lazer, D., Baum, M., Grinberg, N., Friedland, L., Joseph, K., ... & Mattsson, C. (2017). Combating Fake News: An Agenda for Research and Action.
 
+*Further Readings* 
+
 * Zubiaga, A., Liakata, M., Procter, R., Hoi, G. W. S., & Tolmie, P. (2016). Analysing how people orient to and spread rumours in social media by looking at conversational threads. PloS one, 11(3), e0150989. [[link] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150989&utm_content=buffer5a91c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#pone.0150989.ref008)]
 
 * Allcott, H., & Gentzkow, M. (2017). Social media and fake news in the 2016 election (No. w23089). National Bureau of Economic Research. [[Link](https://www.aeaweb.org/full_issue.php?doi=10.1257/jep.31.2#page=213)]. 

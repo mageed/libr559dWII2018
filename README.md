@@ -263,7 +263,7 @@ For this assignment, students are expected to use a rubric that will be provided
 
 For this assignment, students are required to provide a written report with their analysis and evaluation. The evaluation should be supported by quantitative evidence as well as a qualitative appraisal of the performance of the source. You should include a brief introduction, follow by the analysis and evaluation (you have the freedom to thematically organize the analysis and evaluation into different subsection), a section on recommendations as described above, and a conclusion. You are expected to follow norms of academic writing and document and support your claims by academic and professional references. You are also encouraged to make use of Tables, figures, screenshots, and visualizations.
 
-### ASSIGNMENT 3:** *Term Project*
+### ASSIGNMENT 3: *Term Project***
 
 The purposes of this assignment include:
 - Identifying, analyzing, assessing, and solving a problem via use of social media data;

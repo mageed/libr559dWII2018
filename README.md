@@ -98,6 +98,10 @@ Upon completion of this course students will be able to:
 
 * Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [[link](http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.html)]
 
+* Social Media Usage: 2005-2015. [[link](http://www.pewinternet.org/2015/10/08/social-networking-usage-2005-2015/)] 
+
+* Gleit, N. (2017). Facebook’s 2017 Year In Review. [[Link](https://newsroom.fb.com/news/2017/12/facebooks-2017-year-in-review/)].
+
 **Week 3: Social Publishing**
 
 * LB Ch11: Distribution, Application, and Promotion 
@@ -112,6 +116,14 @@ Upon completion of this course students will be able to:
 
 * Wikipedia article on "Linguistics": [[Link](https://en.wikipedia.org/wiki/Linguistics)].
 
+* Reed, J. (2014). How social media is changing language. [[Link](https://blog.oxforddictionaries.com/2014/06/18/social-media-changing-language/)].
+
+*Further Readings*
+
+* Eisenstein, J., O'Connor, B., Smith, N. A., & Xing, E. P. (2014). Diffusion of lexical change in social media. PloS one, 9(11), e113114. [[Link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113114)].
+
+* Jurgens, D., Tsvetkov, Y., & Jurafsky, D. (2017). Incorporating dialectal variability for socially equitable language identification. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (Vol. 2, pp. 51-57). [[Link](http://www.aclweb.org/anthology/P17-2009)].
+
 **Week 5: Analytics with NLP I**
 * Chapter 1 of Jurafsky, D., & Martin, J. H. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. (2nd ed.) [[Link](https://nlp.stanford.edu/~manning/xyzzy/JurafskyMartinEd2book.pdf)]. (Note: The authors are preparing a 3rd edition that is also available online [[link](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)], but no introductory chapter is available yet).
 
@@ -122,10 +134,10 @@ Upon completion of this course students will be able to:
 * NA.
 
 **Week 8: Analytics with NLP II**
-* No readings.
+* BKL Ch01-Ch02. [[Link](http://www.nltk.org/book/)].
 
 **Week 9: Data Engineering**
-* No readings.
+* BKL Ch03-Ch04. [[Link](http://www.nltk.org/book/)].
 
 **Week 10: Sentiment Analysis**
 
@@ -141,11 +153,20 @@ Upon completion of this course students will be able to:
 
 * Abdul-Mageed, M., & Ungar, L. (2017). Emonet: Fine-grained emotion detection with gated recurrent neural networks. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (Vol. 1, pp. 718-728).
 
+*  Ginsberg, D & BurkeHard, M. (2017) Questions: Is Spending Time on Social Media Bad for Us?. [[Link](https://newsroom.fb.com/news/2017/12/hard-questions-is-spending-time-on-social-media-bad-for-us/)]
+
 *Further Readings*
 
 * Saima Aman and Stan Szpakowicz. 2007. Identifying expressions of emotion in text. In Vclav Matouˇsek and Pavel Mautner, editors, Text, Speech and Dialogue, volume 4629 of Lecture Notes in Computer Science, pages 196-205. Springer Berlin / Heidelberg. [[pdf](http://ccc.inaoep.mx/~villasen/bib/Identifying%20Expression%20of%20Emotion%20in%20Text.pdf)] 
 
 **Week 12: Misinformation & Fake News**
+
+* Mele, N., Lazer, D., Baum, M., Grinberg, N., Friedland, L., Joseph, K., ... & Mattsson, C. (2017). Combating Fake News: An Agenda for Research and Action.
+
+* Zubiaga, A., Liakata, M., Procter, R., Hoi, G. W. S., & Tolmie, P. (2016). Analysing how people orient to and spread rumours in social media by looking at conversational threads. PloS one, 11(3), e0150989. [[link] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150989&utm_content=buffer5a91c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#pone.0150989.ref008)]
+
+* Allcott, H., & Gentzkow, M. (2017). Social media and fake news in the 2016 election (No. w23089). National Bureau of Economic Research. [[Link](https://www.aeaweb.org/full_issue.php?doi=10.1257/jep.31.2#page=213)]. 
+
 
 **Week 13: Revision & Wrap-Up**
 

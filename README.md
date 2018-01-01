@@ -249,21 +249,21 @@ Text Analysis"). Farzindar, A., & Inkpen, D. (2017). Natural language processing
 ## Notes on Assignments:
 
 
-## ASSIGNMENT 1: *Social media in professional settings report* 
+### ASSIGNMENT 1: *Social media in professional settings report* 
 
 In this assignment, students will write a critical report focused at social media use in professional settings (e.g., government, coroprates, educational organizations, libraries, museums). The report should discuss the most general cases of social media use in a number of chosen settings (3-4) and then focus more on a setting of the student choice. The report should be illustrated with real world examples of social media accounts. A rubric will be provided to walk students through the different steps. 
 
-### Deliverables: *Social media in professional settings report (~ 1500 words)*
+**Deliverables: *Social media in professional settings report (~ 1500 words)***
 
-## ASSIGNMENT 2: *Analysis and evaluation of a professional social media source* 
+### ASSIGNMENT 2: *Analysis and evaluation of a professional social media source* 
 
 For this assignment, students are expected to use a rubric that will be provided by the instructor as a basis for conducting a content analysis of a social media source of their choice. The source can be one or more of the social media accounts of a library, museum, company, school, or any other organization. The rubric will guide you for analyzing the social media outlet of the organization (e.g., the Twitter account of the Vancouver Public Library https://twitter.com/VPL) in terms of, for example, frequency and time of postings, media used, interaction with users, topics of posts, network (e.g., which users are followed). Based on your analysis, you are expected to provide a critical evaluation of the extent to which the organization is successful in employing social media to reach its goal, including compared to similar organizations. As a result of your evaluation, you should include a section of recommendations to improve the performance of the organization on the social media platform you analyzed.
 
-## Deliverables: *A critical analysis and evaluation of a professional social media outlet (~ 2000 words)*
+**Deliverables: *A critical analysis and evaluation of a professional social media outlet (~ 2000 words)***
 
 For this assignment, students are required to provide a written report with their analysis and evaluation. The evaluation should be supported by quantitative evidence as well as a qualitative appraisal of the performance of the source. You should include a brief introduction, follow by the analysis and evaluation (you have the freedom to thematically organize the analysis and evaluation into different subsection), a section on recommendations as described above, and a conclusion. You are expected to follow norms of academic writing and document and support your claims by academic and professional references. You are also encouraged to make use of Tables, figures, screenshots, and visualizations.
 
-**ASSIGNMENT 3:** Term Project
+### ASSIGNMENT 3:** *Term Project*
 
 The purposes of this assignment include:
 - Identifying, analyzing, assessing, and solving a problem via use of social media data;

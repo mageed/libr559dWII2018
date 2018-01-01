@@ -134,10 +134,19 @@ Upon completion of this course students will be able to:
 * NA.
 
 **Week 8: Analytics with NLP II**
+
 * BKL Ch01-Ch02. [[Link](http://www.nltk.org/book/)].
 
+* AntConc: http://www.laurenceanthony.net/software/antconc/
+
+*Further Readings*
+
+* CH04 ("Applications of Social Media
+Text Analysis"). Farzindar, A., & Inkpen, D. (2017). Natural language processing for social media. Synthesis Lectures on Human Language Technologies, 10(2), 1-195. (Soft copy available via UBC Libraries).
+ 
 **Week 9: Data Engineering**
-* BKL Ch03-Ch04. [[Link](http://www.nltk.org/book/)].
+
+* BKL Ch03. [[Link](http://www.nltk.org/book/)].
 
 **Week 10: Sentiment Analysis**
 

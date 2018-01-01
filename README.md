@@ -75,19 +75,19 @@ Upon completion of this course students will be able to:
 
 | Week | Date   | Topic                            | What is due/out            |
 |------|--------|----------------------------------|----------------------------|
-| 1    |  Jan. 8  | Course overview  |                           |
-| 2    | Jan. 15  | Intro. to social media |           |
-| 3    |  Jan. 22 |  Social publishing |                |
-| 4    | Jan. 29 |  Social media as text |                |
+| 1    |  Jan. 8  | Course overview  |            |
+| 2    | Jan. 15  | Intro. to social media |   assign. 1 out        |
+| 3    |  Jan. 22 |  Social publishing |               |
+| 4    | Jan. 29 |  Social media as text |   assign. 1 due / assign. 2 out         |
 | 5    |  Feb. 5 |  Analytics with NLP I |              |
-| 6    | Feb.12 |  Family Day: No class |               |
-| 7    | Feb. 19 | Mid-Term Break: No class |               |
-| 8    |  Feb. 26 |  Analytics with NLP II |                |
+| 6    | Feb.12 |  Family Day: No class |                |
+| 7    | Feb. 19 | Mid-Term Break: No class |  assign. 2 due             |
+| 8    |  Feb. 26 |  Analytics with NLP II |  assign. 3 out               |
 | 9    | March 5 |  Data Engineering |                |
-| 10    | March 12 |  Sentiment Analysis |                |
+| 10    | March 12 |  Sentiment Analysis |    proposal due            |
 | 11   |  March 19 |  Emotion Detection |                |
 | 12   |  March 26 |  Misinformation & Fake News |              |
-| 13   |  April 2|  Student Presentations & Wrap-Up |              |
+| 13   |  April 2|  Student Presentations & Wrap-Up |  assign. 3 due April 9.      |
 
 ## 8. Readings:
 
@@ -241,7 +241,7 @@ Text Analysis"). Farzindar, A., & Inkpen, D. (2017). Natural language processing
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
 | Professionalization & Class Participation |  Throughout | 15% |
-| ASSIGNMENT 1: Social media in professional settings report |  Week 3: Jan. 22 | 20% |
+| ASSIGNMENT 1: Social media in professional settings report |  Week 3: Jan. 29 | 20% |
 | ASSIGNMENT 2: Analysis and evaluation of a professional social media source |  Week 7: Feb. 19th | 25% |
 | ASSIGNMENT 3_A: Project Proposal |    Week 10: March 12 | 5% |
 | ASSIGNMENT 3_B: Term Project (GROUP of 3) |   April 9   | 35% |

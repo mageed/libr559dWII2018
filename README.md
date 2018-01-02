@@ -241,10 +241,12 @@ Text Analysis"). Farzindar, A., & Inkpen, D. (2017). Natural language processing
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
 | Professionalization & Class Participation |  Throughout | 15% |
-| ASSIGNMENT 1: Social media in professional settings report |  Week 3: Jan. 29 | 20% |
-| ASSIGNMENT 2: Analysis and evaluation of a professional social media source |  Week 7: Feb. 19th | 25% |
-| ASSIGNMENT 3_A: Project Proposal |    Week 10: March 12 | 5% |
-| ASSIGNMENT 3_B: Term Project (GROUP of 3) |   April 9   | 35% |
+| ASSIGNMENT 1: Individual assignment: Social media in professional settings report |  Week 3: Jan. 29 | 20% |
+| ASSIGNMENT 2: Group assignment: Analysis and evaluation of 
+
+s |  Week 7: Feb. 19th | 25% |
+| ASSIGNMENT 3_A: Group assignment: Project Proposal |    Week 10: March 12 | 5% |
+| ASSIGNMENT 3_B: Group assignment: Term Project (GROUP of 3) |   April 9   | 35% |
 
 ## Notes on Assignments:
 
@@ -255,13 +257,13 @@ In this assignment, students will write a critical report focused at social medi
 
 **Deliverables: *Social media in professional settings report (~ 1500 words)***
 
-### ASSIGNMENT 2: *Analysis and evaluation of a professional social media source* 
+### ASSIGNMENT 2: *Analysis and evaluation of professional social media sources* 
 
-For this assignment, students are expected to use a rubric that will be provided by the instructor as a basis for conducting a content analysis of a social media source of their choice. The source can be one or more of the social media accounts of a library, museum, company, school, or any other organization. The rubric will guide you for analyzing the social media outlet of the organization (e.g., the Twitter account of the Vancouver Public Library https://twitter.com/VPL) in terms of, for example, frequency and time of postings, media used, interaction with users, topics of posts, network (e.g., which users are followed). Based on your analysis, you are expected to provide a critical evaluation of the extent to which the organization is successful in employing social media to reach its goal, including compared to similar organizations. As a result of your evaluation, you should include a section of recommendations to improve the performance of the organization on the social media platform you analyzed.
+For this assignment, students will work in groups of 3. Students will use a rubric that will be provided by the instructor as a basis for conducting a content analysis of 2-3 social media sources of their choice. The sources will each include one or more of the social media accounts of sources like libraries, museums, tech corporations, universities, or other organization. The rubric will guide stuents for analyzing the social media outlets of the sources (e.g., the Twitter account of the Vancouver Public Library https://twitter.com/VPL) in terms of, for example, frequency and time of postings, media used, interaction with users, topics of posts, network (e.g., which users are followed). Based on the analysis, students are expected to provide a critical evaluation of the extent to which each source/organization is successful in employing social media to reach its goal, including compared to similar organizations. As a result of the evaluation, students will include a section of recommendations to improve the performance of each source/organization.
 
 **Deliverables: *A critical analysis and evaluation of a professional social media outlet (~ 2000 words)***
 
-For this assignment, students are required to provide a written report with their analysis and evaluation. The evaluation should be supported by quantitative evidence as well as a qualitative appraisal of the performance of the source. You should include a brief introduction, follow by the analysis and evaluation (you have the freedom to thematically organize the analysis and evaluation into different subsection), a section on recommendations as described above, and a conclusion. You are expected to follow norms of academic writing and document and support your claims by academic and professional references. You are also encouraged to make use of Tables, figures, screenshots, and visualizations.
+For this assignment, students are required to provide a written report with their analysis and evaluation. The evaluation should be supported by quantitative evidence as well as a qualitative appraisal of the performance of the source. Students should include a brief introduction, follow by the analysis and evaluation (students have the freedom to thematically organize the analysis and evaluation into different subsection, although the rubric will have recommended sections), a section on recommendations as described above, and a conclusion. Students are expected to follow norms of academic writing and document and support your claims by academic and professional references. Students are also encouraged to make use of Tables, figures, screenshots, and visualizations.
 
 ### ASSIGNMENT 3: *Term Project*
 

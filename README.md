@@ -242,9 +242,7 @@ Text Analysis"). Farzindar, A., & Inkpen, D. (2017). Natural language processing
 | ---------- | -------- | ------ |
 | Professionalization & Class Participation |  Throughout | 15% |
 | ASSIGNMENT 1: Individual assignment: Social media in professional settings report |  Week 3: Jan. 29 | 20% |
-| ASSIGNMENT 2: Group assignment: Analysis and evaluation of 
-
-|  Week 7: Feb. 19th | 25% |
+| ASSIGNMENT 2: Group assignment: Analysis and evaluation of professional social media sources |  Week 7: Feb. 19th | 25% |
 | ASSIGNMENT 3_A: Group assignment: Project Proposal |    Week 10: March 12 | 5% |
 | ASSIGNMENT 3_B: Group assignment: Term Project (GROUP of 3) |   April 9   | 35% |
 

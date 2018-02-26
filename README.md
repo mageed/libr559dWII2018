@@ -147,6 +147,7 @@ Text Analysis"). Farzindar, A., & Inkpen, D. (2017). Natural language processing
 **Week 9: Data Engineering**
 
 * BKL Ch03. [[Link](http://www.nltk.org/book/)].
+* Watch Muhammad Abdul-Mageed and Markus Dickinson Workshop: [[Social Media Mining with Natural Language Processing](https://media.dlib.indiana.edu/media_objects/hh63sw18c)].
 
 **Week 10: Sentiment Analysis**
 

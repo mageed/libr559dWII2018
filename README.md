@@ -139,6 +139,8 @@ Upon completion of this course students will be able to:
 
 * AntConc: http://www.laurenceanthony.net/software/antconc/
 
+* Code for crawling Twitter: [[Link](https://github.com/mageed/libr559dWII2018/blob/master/slides/Crawling_Twitter.ipynb)]
+
 *Further Readings*
 
 * CH04 ("Applications of Social Media

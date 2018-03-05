@@ -153,13 +153,13 @@ Text Analysis"). Farzindar, A., & Inkpen, D. (2017). Natural language processing
 
 **Week 10: Sentiment Analysis**
 
-* Abdul-Mageed, M., & Diab, M. (2012). AWATIF: A multi-genre corpus for Modern Standard Arabic subjectivity and sentiment analysis. Proceedings of LREC, Istanbul, Turkey. [pdf] 
+* Abdul-Mageed, M., & Diab, M. (2012). AWATIF: A multi-genre corpus for Modern Standard Arabic subjectivity and sentiment analysis. Proceedings of LREC, Istanbul, Turkey. [[pdf](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1057_Paper.pdf)]. 
 
 * Polanyi, L., & Zaenen, A. (2006). Contextual valence shifters. Computing attitude and affect in text: Theory and applications, 1-10. [[pdf](http://www.aaai.org/Papers/Symposia/Spring/2004/SS-04-07/SS04-07-020.pdf)] 
 
 *Further Readings*
 
-* Abdul-Mageed, M. & Diab, M. (2011). Subjectivity and Sentiment Annotation of Modern Standard Arabic Newswire. Proceedings of the the Fourth Linguistic Annotation Workshop. Portland, Oregon, USA, June 23-24, 2011. [pdf] [bib]
+* Abdul-Mageed, M. & Diab, M. (2011). Subjectivity and Sentiment Annotation of Modern Standard Arabic Newswire. Proceedings of the the Fourth Linguistic Annotation Workshop. Portland, Oregon, USA, June 23-24, 2011. [[pdf](https://aclanthology.info/pdf/W/W11/W11-0413.pdf).] [bib]
 
 **Week 11: Emotion Detection**
 

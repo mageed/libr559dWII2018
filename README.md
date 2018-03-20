@@ -87,6 +87,7 @@ Upon completion of this course students will be able to:
 | 10    | March 12 |  Sentiment Analysis |    proposal due            |
 | 11   |  March 19 |  Emotion Detection |                |
 | 12   |  March 26 |  Misinformation & Fake News |              |
+| 13   |  April 2 |  Easter Monday: No Class |              |
 
 
 ## 8. Readings:
@@ -181,6 +182,7 @@ Text Analysis"). Farzindar, A., & Inkpen, D. (2017). Natural language processing
 
 * Allcott, H., & Gentzkow, M. (2017). Social media and fake news in the 2016 election (No. w23089). National Bureau of Economic Research. [[Link](https://www.aeaweb.org/full_issue.php?doi=10.1257/jep.31.2#page=213)]. 
 
+**Week 13: Easter Monday (No Class)**
 
 **Further Background Readings**
 *There is a huge body of SMI literature. The following is a partial list from previous courses by the instructor*
